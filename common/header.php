@@ -29,7 +29,6 @@
 	                                রোববার ০৩ সেপ্টেম্বর ২০২৩ || ভাদ্র ১৯ ১৪৩০
 	                            </span>
 	                        </p>
-
 	                    </div>
 	                    <div class="col-lg-4 col-sm-12 ">
 	                        <a class="brand-logo-top d-lg-flex d-none  justify-content-center align-items-center" title="Desh News 24" href="#">
@@ -38,24 +37,25 @@
 	                    </div>
 	                    <div class="col-lg-4 m-auto">
 	                        <div class="d-lg-flex d-none justify-content-end social-media-icons">
-	                            <a href="/" aria-label="Facebook" target="_blank">
+	                            <a href="#" aria-label="Facebook" target="_blank">
 	                                <div class="social-icon facebook"><i class="fa-brands fa-facebook-f"></i></div>
 	                            </a>
-	                            <a href="/" aria-label="Youtube" target="_blank">
+	                            <a href="#" aria-label="Youtube" target="_blank">
 	                                <div class="social-icon youtube"><i class="fa-brands fa-youtube"></i></div>
 	                            </a>
-	                            <a href="/" aria-label="Twitter" target="_blank">
+	                            <a href="#" aria-label="Twitter" target="_blank">
 	                                <div class="social-icon twitter"><i class="fa-brands fa-twitter"></i></div>
 	                            </a>
-	                            <a href="/" aria-label="Instagram" target="_blank">
+	                            <a href="#" aria-label="Instagram" target="_blank">
 	                                <div class="social-icon instagram"><i class="fa-brands fa-instagram"></i></div>
 	                            </a>
-	                            <a href="/" aria-label="Linkedin" target="_blank">
+	                            <a href="#" aria-label="Linkedin" target="_blank">
 	                                <div class="social-icon linkedin"><i class="fa-brands fa-linkedin-in"></i></div>
 	                            </a>
 	                            <a href="#">
-	                                <div class="social-icon" onclick="showSearchBox()" style="background: #F34A38;"><i class="fa-solid fa-magnifying-glass"></i>
-	                                </div>
+								<div class="social-icon" onclick="showSearchBox()" style="background: #F34A38"><i class="fas fa-search" style="cursor:pointer"></i>
+											</div>
+	                              
 	                            </a>
 	                        </div>
 	                    </div>

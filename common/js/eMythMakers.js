@@ -8,18 +8,7 @@ $(document).ready(function () {
             $(".DHeaderNav").removeClass('sticky');
         }
     });
-    //search box//
-    function showSearchBox() {
-        document.getElementById("searchcontainer").style.display = "block";
-    }
 
-    function hideSearchBox() {
-        document.getElementById("searchcontainer").style.display = "none";
-    }
-
-    function performSearch() {
-        document.getElementById("searchInput").value;
-    }
     // BackToTop
     $(document).ready(function () {
         $(window).scroll(function () {
@@ -61,3 +50,17 @@ $(document).ready(function () {
     });
 
 });
+
+
+//search box//
+function showSearchBox() {
+    document.getElementById("searchcontainer").style.display = "block";
+}
+
+function hideSearchBox() {
+    document.getElementById("searchcontainer").style.display = "none";
+}
+
+function performSearch() {
+    document.getElementById("searchInput").value;
+}
