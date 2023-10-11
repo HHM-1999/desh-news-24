@@ -23,8 +23,9 @@ ul{margin:0;padding:0;}
 .hidden {display:none;}
 
 /* /* common  */
-.sticky{position:fixed;top:0;z-index:9999999;margin-top:0;left:0;right:0;}
-.navbar-toggler:focus{box-shadow:none;}
+/* .sticky{position:fixed;top:0;z-index:9999999;margin-top:0;left:0;right:0;}
+.navbar-toggler:focus{box-shadow:none;} */
+.sticky {position:fixed;top:0px;width:100%;z-index:9999;transition:0.2s;box-shadow:0 0 2px 0 #00000051;}
 
 /*image-resize-style*/
 .Imgresize{position:relative;}

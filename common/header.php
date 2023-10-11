@@ -64,7 +64,7 @@
 	    </div>
 
 	    <!-- main navbar -->
-	    <div class="DHeaderNav sticky ">
+	    <div class="DHeaderNav stickyNav " id="sticky-navbar">
 	        <div class="container">
 	            <div class="row ">
 	                <div class="col-lg-12">
