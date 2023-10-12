@@ -26,10 +26,10 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="area-details">
-                            <h2>সম্পাদক : জুয়েল মাজহার</h2>
-                            <p>ফোন: +৮৮০ ২ ৮৪৩ ২১৮১, +৮৮০ ২ ৮৪৩ ২১৮২ আই.পি. ফোন: +৮৮০ ৯৬১ ২১২ ৩১৩১ নিউজ রুম মোবাইল: +৮৮০ ১৭২ ৯০৭ ৬৯৯৬, +৮৮০ ১৭২ ৯০৭ ৬৯৯৯ ফ্যাক্স: +৮৮০ ২ ৮৪৩ ২৩৪৬ </p>
-                            <p>ইমেইল: news@banglanews24.com সম্পাদক ইমেইল: editor@banglanews24.com</p>
-                            <p>Marketing Department: +880 961 212 3131 Extension: 3039 E-mail: marketing@deshnews24.com</p>
+                            <h2>সম্পাদক : হাসান মাহমুদ</h2>
+                            <p>ফোন: +৮৫৪৬৮৬২৩২৩৯৮৯৩, +৮৮৫৪৪৬৮৭৮৩১৩৫ আই.পি. ফোন: +৮৮২১৪৫৪৬৬৬১২৩৮ নিউজ রুম মোবাইল: +৮৫৪৬৬৩২২৫৬৪৬৬৫৬, +৫৪২১৫৬৬৬৩১৪ ফ্যাক্স: +৮৮৪৬৮৯৮৭৮৭৪১২ </p>
+                            <p>ইমেইল: news@deshnews24.com সম্পাদক ইমেইল: editor@deshnews24.com</p>
+                            <p>Marketing Department: +8805689764133876 Extension: 3039 E-mail: marketing@deshnews24.com</p>
                             <p class="pt-4">Copyrights © 2023 deshnews24.com </p>
                         </div>
 

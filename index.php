@@ -1,48 +1,39 @@
 <?php include_once("common/config.php"); ?>
 <!doctype html>
 <html lang="en">
-
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
 	<title><?php echo $sSiteTitle; ?></title>
-
 	<?php echo $sGAnalytics;
 	echo $sGTagManagerHead;
 	echo $sAddSense;
 	echo $sDomainVerification;
 	echo $sMSClarity; ?>
-
-	<meta name="description" content="<?php echo $sSiteTitle; ?>,পলাশ উপজেলা, নরসিংদী জেলা">
-	<meta name="keywords" content="<?php echo $sSiteTitle; ?>,পলাশ উপজেলা, নরসিংদী জেলা">
-
+	<meta name="description" content="<?php echo $sSiteTitle; ?>,দেশ নিউজ ২৪">
+	<meta name="keywords" content="<?php echo $sSiteTitle; ?>,দেশ নিউজ ২৪">
 	<meta name="author" content="<?php echo $sAuthor; ?>">
 	<meta name="Developer" content="<?php echo $sDeveloper; ?>">
 	<meta name="resource-type" content="document">
 	<meta name="contact" content="<?php echo $sEmail; ?>">
 	<meta name="copyright" content="Copyright (c) <?php echo gmdate("Y"); ?>. All Rights &reg; Reserved by <?php echo $sSiteURL; ?>.">
-
 	<meta name="robots" content="index, follow">
 	<meta name="googlebot" content="index, follow">
 	<meta name="googlebot-news" content="index, follow">
 	<meta name="msnbot" content="index, follow">
-
 	<meta property="fb:app_id" content="<?php echo $sFBAppId; ?>">
 	<meta property="fb:pages" content="<?php echo $sFBPageId; ?>">
-
 	<meta property="og:site_name" content="<?php echo $sSiteName; ?>">
-	<meta property="og:title" content="ঘোড়াশাল পৌরসভা,পলাশ উপজেলা, নরসিংদী জেলা">
-	<meta property="og:description" content="ঘোড়াশাল পৌরসভা,পলাশ উপজেলা, নরসিংদী জেলা">
+	<meta property="og:title" content="দেশ নিউজ ২৪ :: Desh News 24">
+	<meta property="og:description" content="দেশ নিউজ ২৪ :: Desh News 24">
 	<meta property="og:url" content="<?php echo $sSiteURL; ?>">
 	<meta property="og:type" content="article">
 	<meta property="og:image" content="<?php echo $sLogoURLfb; ?>">
 	<meta property="og:locale" content="en_US">
-
 	<link rel="image_src" href="<?php echo $sLogoURLfb; ?>">
 	<link type="image/x-icon" rel="shortcut icon" href="<?php echo $sFavicon; ?>">
-	<link type="image/x-icon" rel="icon" href="<?php echo $sFavicon; ?>">
-
+	<link type="image/x-icon" rel="icon" href="<?php echo $sFavicon; ?>"> 
 	<?php echo $sCSSBootStrap;
 	echo $sCSSFontAwesome;
 	echo $sCSSSlick;

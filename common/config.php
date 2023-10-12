@@ -1,8 +1,8 @@
 <?php
-$sInitialBN="দেশ খবর ২৪";
+$sInitialBN="দেশ নিউজ ২৪";
 $sInitialEN="Desh News 24";
 $sSiteName="Desh News 24";
-$sSiteTitle="দেশ খবর ২৪ :: Desh News 24";
+$sSiteTitle="দেশ নিউজ ২৪ :: Desh News 24";
 $sAuthor="Desh News 24";
 $sDeveloper="eMythMakers.com";
 $sEmail="abc15@mail.com";
