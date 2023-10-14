@@ -1,6 +1,7 @@
 <?php include_once("common/config.php"); ?>
 <!doctype html>
 <html lang="en">
+
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -33,7 +34,7 @@
 	<meta property="og:locale" content="en_US">
 	<link rel="image_src" href="<?php echo $sLogoURLfb; ?>">
 	<link type="image/x-icon" rel="shortcut icon" href="<?php echo $sFavicon; ?>">
-	<link type="image/x-icon" rel="icon" href="<?php echo $sFavicon; ?>"> 
+	<link type="image/x-icon" rel="icon" href="<?php echo $sFavicon; ?>">
 	<?php echo $sCSSBootStrap;
 	echo $sCSSFontAwesome;
 	echo $sCSSSlick;
@@ -196,12 +197,82 @@
 								<img class="img-fluid img100" src="media/imgAll/bg/advertisement-2.gif" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
 							</picture>
 						</div>
-						<!-- advertisement-section -->
-						<div class="advertise-section pt-3">
-							<picture>
-								<img class="img-fluid img100" src="media/imgAll/bg/advertisement-4.jpeg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
-							</picture>
+						<!-- arkav section -->
+
+						<div class="row">
+							<div class="span12">
+								<table class="table-condensed table-bordered table-striped">
+									<thead>
+										<tr>
+											<th colspan="7" class="table-grp">
+												<span class="btn-group">
+													<a class="btn"><i class="fa-solid fa-chevron-left"></i></a>
+													<a class="btn active">February 2012</a>
+													<a class="btn"><i class="fa-solid fa-chevron-right"></i></a>
+												</span>
+											</th>
+										</tr>
+										<tr class="week-part">
+											<th>Su</th>
+											<th>Mo</th>
+											<th>Tu</th>
+											<th>We</th>
+											<th>Th</th>
+											<th>Fr</th>
+											<th>Sa</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td class="muted">29</td>
+											<td class="muted">30</td>
+											<td class="muted">31</td>
+											<td>1</td>
+											<td>2</td>
+											<td>3</td>
+											<td>4</td>
+										</tr>
+										<tr>
+											<td>5</td>
+											<td>6</td>
+											<td>7</td>
+											<td>8</td>
+											<td>9</td>
+											<td>10</td>
+											<td>11</td>
+										</tr>
+										<tr>
+											<td>12</td>
+											<td>13</td>
+											<td>14</td>
+											<td>15</td>
+											<td>16</td>
+											<td>17</td>
+											<td>18</td>
+										</tr>
+										<tr>
+											<td>19</td>
+											<td class="btn-red"><strong>20</strong></td>
+											<td>21</td>
+											<td>22</td>
+											<td>23</td>
+											<td>24</td>
+											<td>25</td>
+										</tr>
+										<tr>
+											<td>26</td>
+											<td>27</td>
+											<td>28</td>
+											<td>29</td>
+											<td class="muted">1</td>
+											<td class="muted">2</td>
+											<td class="muted">3</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
 						</div>
+
 						<!-- sorbosesh-section -->
 						<div class="DLPSTab2">
 							<div class="panel panel-default">
@@ -219,7 +290,7 @@
 									<div class="tab-content">
 										<div class="tab-pane active" id="sorbosesh-tab" role="tabpanel1">
 
-											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 439px; overflow: auto;" data-mcs-theme="dark" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0">
+											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 397px; overflow: auto;" data-mcs-theme="dark" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0">
 												<div class="DLatestNewsList">
 													<a href="#">
 														<span>১</span>
@@ -295,7 +366,7 @@
 										</div>
 										<div class="tab-pane" id="sorbadhik-tab" role="tabpanel2">
 
-											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 439px; overflow: auto;" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" data-mcs-theme="dark">
+											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 397px; overflow: auto;" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" data-mcs-theme="dark">
 												<div class="DLatestNewsList">
 													<a href="#">
 														<span>১</span>
@@ -409,7 +480,7 @@
 			</div>
 		</section>
 
-		<!-- ========national-International-law-section========= -->
+		<!-- ========জাতীয় +রাজনীতি +আন্তর্জাতিক========= -->
 		<section class="menu-section-1">
 			<div class="container">
 				<div class="row">
@@ -495,7 +566,7 @@
 						<div class="international-area">
 							<div class="section-heading">
 								<a href="#">
-									<h3 class="Title">আন্তর্জাতিক <i class="fa-solid fa-angles-right"></i> </h3>
+									<h3 class="Title"> রাজনীতি<i class="fa-solid fa-angles-right"></i> </h3>
 								</a>
 							</div>
 							<div class="national-lead-news">
@@ -572,7 +643,7 @@
 						<div class="law-area">
 							<div class="section-heading">
 								<a href="#">
-									<h3 class="Title">আইন ও আদালত <i class="fa-solid fa-angles-right"></i></h3>
+									<h3 class="Title">আন্তর্জাতিক <i class="fa-solid fa-angles-right"></i></h3>
 								</a>
 							</div>
 							<div class="national-lead-news">
@@ -652,7 +723,7 @@
 
 		</section>
 
-		<!-- ========rajniti-section=========-->
+		<!-- =========আইন-বিচার========-->
 		<section class="menu-section-2">
 			<div class="container">
 				<div class="row">
@@ -660,7 +731,7 @@
 						<div class="rajniti-section">
 							<div class="section-heading">
 								<a href="#">
-									<h3 class="Title">রাজনীতি <i class="fa-solid fa-angles-right"></i></h3>
+									<h3 class="Title">আইন-বিচার<i class="fa-solid fa-angles-right"></i></h3>
 								</a>
 							</div>
 						</div>
@@ -817,7 +888,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- bandorban-rangamati-khagrachori-section -->
+		<!-- বান্দরবান+রাঙ্গামাটি+খাগড়াছড়ি -->
 		<section class="menu-section-3">
 			<div class="container">
 				<!-- Parborto-chottogram -->
@@ -984,7 +1055,7 @@
 				</div>
 			</div>
 		</section>
-		<!-- Entertainment-section-->
+		<!-- বিনোদন-->
 		<section class="menu-section-4">
 			<div class="container">
 				<div class="sport-section">
@@ -1116,7 +1187,7 @@
 				</div>
 			</div>
 		</section>
-		<!-- Sports-TothoProjugti-Saradesh-section -->
+		<!--সারাদেশ+অর্থনীতি-ব্যবসা+খেলা -->
 		<section class="menu-section-5">
 			<div class="container">
 				<div class="row">
@@ -1124,7 +1195,7 @@
 						<div class="national-area">
 							<div class="section-heading">
 								<a href="#">
-									<h3 class="Title">খেলা <i class="fa-solid fa-angles-right"></i></h3>
+									<h3 class="Title">সারাদেশ <i class="fa-solid fa-angles-right"></i></h3>
 								</a>
 							</div>
 							<div class="national-lead-news">
@@ -1202,7 +1273,7 @@
 						<div class="international-area">
 							<div class="section-heading">
 								<a href="#">
-									<h3 class="Title">তথ্য প্রযুক্তি <i class="fa-solid fa-angles-right"></i> </h3>
+									<h3 class="Title">অর্থনীতি-ব্যবসা<i class="fa-solid fa-angles-right"></i> </h3>
 								</a>
 							</div>
 							<div class="national-lead-news">
@@ -1279,7 +1350,7 @@
 						<div class="law-area">
 							<div class="section-heading">
 								<a href="#">
-									<h3 class="Title">সারাদেশ <i class="fa-solid fa-angles-right"></i></h3>
+									<h3 class="Title">খেলা <i class="fa-solid fa-angles-right"></i></h3>
 								</a>
 							</div>
 							<div class="national-lead-news">
@@ -1355,7 +1426,7 @@
 				</div>
 			</div>
 		</section>
-		<!-- health-education-section -->
+		<!-- স্বাস্থ্য+শিক্ষা  -->
 		<section class="menu-section-6">
 			<div class="container">
 				<div class="row">
@@ -1513,18 +1584,17 @@
 			</div>
 
 		</section>
-		<!-- religion-section -->
+		<!-- আইন ও আদালত+ধর্ম+তথ্য ও প্রযুক্তি -->
 		<section class="menu-section-7">
 			<div class="container">
-				<!-- religion -->
 				<div class="parborto-chottogram-area">
 					<div class="row">
-						<!-- Islam-area -->
-						<div class="col-lg-3">
+						<!--আইন ও আদালত  -->
+						<div class="col-lg-4">
 							<div class="bandorban-heading">
 								<div class="section-heading">
 									<a href="#">
-										<h3 class="Title">ইসলাম<i class="fa-solid fa-angles-right"></i></h3>
+										<h3 class="Title">আইন ও আদালত<i class="fa-solid fa-angles-right"></i></h3>
 									</a>
 								</div>
 								<div class="main-news-list">
@@ -1560,11 +1630,11 @@
 						</div>
 
 						<!-- Hindu-area -->
-						<div class="col-lg-3">
+						<div class="col-lg-4">
 							<div class="bandorban-heading">
 								<div class="section-heading">
 									<a href="#">
-										<h3 class="Title">হিন্দু<i class="fa-solid fa-angles-right"></i></h3>
+										<h3 class="Title">ধর্ম<i class="fa-solid fa-angles-right"></i></h3>
 									</a>
 								</div>
 								<div class="main-news-list">
@@ -1599,11 +1669,11 @@
 							</div>
 						</div>
 						<!-- Christan-area -->
-						<div class="col-lg-3">
+						<div class="col-lg-4">
 							<div class="bandorban-heading">
 								<div class="section-heading">
 									<a href="#">
-										<h3 class="Title">খ্রিষ্টান<i class="fa-solid fa-angles-right"></i></h3>
+										<h3 class="Title">তথ্য ও প্রযুক্তি<i class="fa-solid fa-angles-right"></i></h3>
 									</a>
 								</div>
 								<div class="main-news-list">
@@ -1637,45 +1707,7 @@
 								</div>
 							</div>
 						</div>
-						<!-- Budho-area -->
-						<div class="col-lg-3">
-							<div class="bandorban-heading">
-								<div class="section-heading">
-									<a href="#">
-										<h3 class="Title">বৌদ্ধ<i class="fa-solid fa-angles-right"></i></h3>
-									</a>
-								</div>
-								<div class="main-news-list">
-									<a href="#">
-										<picture>
-											<img class="img-fluid img100" src="media/imgAll/bg/14952417292801160377.jpeg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-										</picture>
-										<div class="desc">
-											<h2 class="lead-news-list-title">
-												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
-											</h2>
-										</div>
-									</a>
-								</div>
-								<div class="category-news-list">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-												<p>নানা নাটকীয়তার পর সাবেক ওয়ানডে অধিনায়ক</p>
-											</a></li>
-									</ul>
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-												<p>টাইগার ওপেনারের আকস্মিক দল থেকে বাদ পড়ায় নানা প্রশ্নের সৃষ্টি হয়েছে</p>
-											</a></li>
-									</ul>
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-												<p>তিন মাস পর অনুষ্ঠিত হতে যাচ্ছে দ্বাদশ জাতীয় সংসদ নির্বাচন</p>
-											</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
+
 					</div>
 				</div>
 			</div>
@@ -1688,7 +1720,7 @@
 				</picture>
 			</div>
 		</div>
-		<!-- orthonitiBebsha-Lawjustice-section -->
+		<!-- অর্থনীতি- ব্যবসা +আইন-বিচার  -->
 		<section class="menu-section-8">
 			<div class="container">
 				<div class="row">
@@ -1858,7 +1890,7 @@
 			</div>
 
 		</section>
-		<!-- Lifestyle-section -->
+		<!-- লাইফস্টাইল -->
 		<section class="menu-section-9">
 			<div class="container">
 				<div class="lifestyle-section">
@@ -1943,6 +1975,127 @@
 							</div>
 
 						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- photo-gallary -->
+		<section class="photo-gallary">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="section-heading">
+							<a href="#">
+								<h3 class="Title"> ফটোগ্যালারী<i class="fa-solid fa-angles-right"></i></h3>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-8">
+						<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+							<div class="carousel-inner">
+								<div class="carousel-item active">
+									<div class="entertainment-lead-area">
+										<div class="thumbnail">
+											<a href="/">
+												<picture>
+													<img class="img-fluid img100" src="media/imgAll/bg/1681976536.Photo - 2023-04-20T134152.708.jpg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
+												</picture>
+												<div class="Desc">
+													<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="carousel-item">
+									<div class="entertainment-lead-area">
+										<div class="thumbnail">
+											<a href="/">
+												<picture>
+													<img class="img-fluid img100" src="media/imgAll/bg/1680366824.339039099_6205034359573508_930745879847895749_n.jpg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
+												</picture>
+												<div class="Desc">
+													<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="carousel-item">
+									<div class="entertainment-lead-area">
+										<div class="thumbnail">
+											<a href="/">
+												<picture>
+													<img class="img-fluid img100" src="media/imgAll/bg/1681976536.Photo - 2023-04-20T134152.708.jpg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
+												</picture>
+												<div class="Desc">
+													<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+								<span class=" icon prev-icon" aria-hidden="true"><i class="fa-solid fa-chevron-left"></i></span>
+								<span class="visually-hidden">Previous</span>
+							</button>
+							<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+								<span class="icon next-icon" aria-hidden="true"><i class="fa-solid fa-chevron-right"></i></span>
+								<span class="visually-hidden">Next</span>
+							</button>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="galary-area">
+							<div class="img">
+							<a href="/">
+								<picture>
+									<img class="img-fluid img100" src="media/imgAll/bg/1650281923.mosque_5.jpg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
+								</picture>
+							</a>
+							</div>
+							<a href="#"><i class="fas fa-images gallary-icon"></i></a>
+						</div>
+						<div class="lead-news-list">
+									<a href="#">
+										<div class="row">
+											<div class="col-lg-5 col-5">
+												<picture>
+													<img class="img-fluid img100" src="media/imgAll/bg/news-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+												</picture>
+											</div>
+											<div class="col-lg-7 col-7">
+												<div class="desc">
+													<h2 class="list-title">
+													আজকের আলোচিত ছবি: ০৬ অক্টোবর ২০২৩
+													</h2>
+												</div>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="lead-news-list">
+									<a href="#">
+										<div class="row">
+											<div class="col-lg-5 col-5">
+												<picture>
+													<img class="img-fluid img100" src="media/imgAll/bg/1-2e395856236b7e471a90b57590b84fad.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+												</picture>
+											</div>
+											<div class="col-lg-7 col-7">
+												<div class="desc">
+													<h2 class="list-title">
+													আজকের আলোচিত ছবি: ০৬ অক্টোবর ২০২৩
+													</h2>
+												</div>
+											</div>
+										</div>
+									</a>
+								</div>
+					
 					</div>
 				</div>
 			</div>
