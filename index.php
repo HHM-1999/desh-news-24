@@ -35,6 +35,8 @@
 	<link rel="image_src" href="<?php echo $sLogoURLfb; ?>">
 	<link type="image/x-icon" rel="shortcut icon" href="<?php echo $sFavicon; ?>">
 	<link type="image/x-icon" rel="icon" href="<?php echo $sFavicon; ?>">
+
+
 	<?php echo $sCSSBootStrap;
 	echo $sCSSFontAwesome;
 	echo $sCSSSlick;
@@ -83,12 +85,7 @@
 								</div>
 							</a>
 						</div>
-						<!-- advertisement-section -->
-						<div class="advertise-section pt-3">
-							<picture>
-								<img class="img-fluid img100" src="media/imgAll/bg/advertisement-3.jpeg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
-							</picture>
-						</div>
+
 						<!-- main-lead-news-list -->
 						<!-- main-news-list -->
 						<div class="lead-news-list-area">
@@ -179,12 +176,54 @@
 										</a>
 									</div>
 								</div>
+								<div class="col-lg-4 col-6">
+									<div class="main-news-list">
+										<a href="#">
+											<picture>
+												<img class="img-fluid img100" src="media/imgAll/bg/1681976536.Photo - 2023-04-20T134152.708.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+											</picture>
+											<div class="desc">
+												<h2 class="lead-news-list-title">
+													বাংলাদেশকে এলডিসি থেকে বের হতে সহায়তা করবে থার্ড টার্মিনাল
+												</h2>
+											</div>
+										</a>
+									</div>
+								</div>
+								<div class="col-lg-4 col-6">
+									<div class="main-news-list">
+										<a href="#">
+											<picture>
+												<img class="img-fluid img100" src="media/imgAll/bg/1695367150.96.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+											</picture>
+											<div class="desc">
+												<h2 class="lead-news-list-title">
+													সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+												</h2>
+											</div>
+										</a>
+									</div>
+								</div>
+								<div class="col-lg-4 col-6">
+									<div class="main-news-list">
+										<a href="#">
+											<picture>
+												<img class="img-fluid img100" src="media/imgAll/bg/1697083543.hostage.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+											</picture>
+											<div class="desc">
+												<h2 class="lead-news-list-title">
+													ঢাকা-ব্যাংকক রুটে চলবে থাই এয়ারের ডাবল ফ্লাইট
+												</h2>
+											</div>
+										</a>
+									</div>
+								</div>
 
 							</div>
 
 						</div>
 						<!-- advertisement-section -->
-						<div class="advertise-section pt-3">
+						<div class="advertise-section">
 							<picture>
 								<img class="img-fluid img100" src="media/imgAll/bg/advertisement.jpeg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
 							</picture>
@@ -197,80 +236,39 @@
 								<img class="img-fluid img100" src="media/imgAll/bg/advertisement-2.gif" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
 							</picture>
 						</div>
-						<!-- arkav section -->
 
-						<div class="row">
-							<div class="span12">
-								<table class="table-condensed table-bordered table-striped">
-									<thead>
-										<tr>
-											<th colspan="7" class="table-grp">
-												<span class="btn-group">
-													<a class="btn"><i class="fa-solid fa-chevron-left"></i></a>
-													<a class="btn active">February 2012</a>
-													<a class="btn"><i class="fa-solid fa-chevron-right"></i></a>
-												</span>
-											</th>
-										</tr>
-										<tr class="week-part">
-											<th>Su</th>
-											<th>Mo</th>
-											<th>Tu</th>
-											<th>We</th>
-											<th>Th</th>
-											<th>Fr</th>
-											<th>Sa</th>
-										</tr>
-									</thead>
-									<tbody>
-										<tr>
-											<td class="muted">29</td>
-											<td class="muted">30</td>
-											<td class="muted">31</td>
-											<td>1</td>
-											<td>2</td>
-											<td>3</td>
-											<td>4</td>
-										</tr>
-										<tr>
-											<td>5</td>
-											<td>6</td>
-											<td>7</td>
-											<td>8</td>
-											<td>9</td>
-											<td>10</td>
-											<td>11</td>
-										</tr>
-										<tr>
-											<td>12</td>
-											<td>13</td>
-											<td>14</td>
-											<td>15</td>
-											<td>16</td>
-											<td>17</td>
-											<td>18</td>
-										</tr>
-										<tr>
-											<td>19</td>
-											<td class="btn-red"><strong>20</strong></td>
-											<td>21</td>
-											<td>22</td>
-											<td>23</td>
-											<td>24</td>
-											<td>25</td>
-										</tr>
-										<tr>
-											<td>26</td>
-											<td>27</td>
-											<td>28</td>
-											<td>29</td>
-											<td class="muted">1</td>
-											<td class="muted">2</td>
-											<td class="muted">3</td>
-										</tr>
-									</tbody>
-								</table>
+						<!-- arkav section -->
+						<div class="datePicker-area">
+							<div class="datepicker-title">
+								<a href="#">আর্কাইভ</a>
+
 							</div>
+							<section class="date_picker_wrapper" id="date_picker_1">
+								<div class="date_picker_header">
+									<button class="date_picker_year"></button>
+									<h3 class="date_picker_month_day"></h3>
+								</div>
+								<div class="date_picker_body">
+									<div class="date_picker_month_navigation">
+										<button class="date_picker_prev_month date_picker_month_nav_btn">
+											<ion-icon name="caret-back-circle-outline"><i class="fas fa-angle-left"></i></ion-icon>
+										</button>
+										<h2 class="date_picker_month_name"></h2>
+										<button class="date_picker_next_month date_picker_month_nav_btn">
+											<ion-icon name="caret-forward-circle-outline"><i class="fas fa-angle-right"></i></ion-icon>
+										</button>
+									</div>
+									<ul class="date_picker_month_days">
+										<li class="week-name">Sun</li>
+										<li class="week-name">Mon</li>
+										<li class="week-name">Tue</li>
+										<li class="week-name">Wed</li>
+										<li class="week-name">Thu</li>
+										<li class="week-name">Fri</li>
+										<li class="week-name">Sat</li>
+									</ul>
+								</div>
+							</section>
 						</div>
 
 						<!-- sorbosesh-section -->
@@ -290,7 +288,7 @@
 									<div class="tab-content">
 										<div class="tab-pane active" id="sorbosesh-tab" role="tabpanel1">
 
-											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 397px; overflow: auto;" data-mcs-theme="dark" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0">
+											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 360px; overflow: auto;" data-mcs-theme="dark" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0">
 												<div class="DLatestNewsList">
 													<a href="#">
 														<span>১</span>
@@ -366,7 +364,7 @@
 										</div>
 										<div class="tab-pane" id="sorbadhik-tab" role="tabpanel2">
 
-											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 397px; overflow: auto;" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" data-mcs-theme="dark">
+											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 360px; overflow: auto;" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" data-mcs-theme="dark">
 												<div class="DLatestNewsList">
 													<a href="#">
 														<span>১</span>
@@ -475,10 +473,11 @@
 								</div>
 							</div>
 						</div>
+
 					</div>
 				</div>
-			</div>
 		</section>
+
 
 		<!-- ========জাতীয় +রাজনীতি +আন্তর্জাতিক========= -->
 		<section class="menu-section-1">
@@ -1996,15 +1995,57 @@
 						<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
 							<div class="carousel-inner">
 								<div class="carousel-item active">
-									<div class="entertainment-lead-area">
+								<div class="entertainment-lead-area">
 										<div class="thumbnail">
 											<a href="/">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/1681976536.Photo - 2023-04-20T134152.708.jpg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
-												</picture>
-												<div class="Desc">
+												<div class="photo-section">
+													<div class="DVideoListItem align-self-stretch">
+														<a href="/">
+															<div class="DImgZoomBlock">
+																<picture>
+																	<img class="img-fluid img100" src="media/imgAll/bg/lead-news-1.jpg" alt="" title="">
+																</picture>
+																<span class="photo-Icon">
+																	<i class="fas fa-images gallary-icon"></i>
+																</span>
+															</div>
+															
+														</a>
+													</div>
+													<div class="Desc">
 													<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
 												</div>
+												</div>
+												
+												
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="carousel-item">
+								<div class="entertainment-lead-area">
+										<div class="thumbnail">
+											<a href="/">
+												<div class="photo-section">
+													<div class="DVideoListItem align-self-stretch">
+														<a href="/">
+															<div class="DImgZoomBlock">
+																<picture>
+																	<img class="img-fluid img100" src="media/imgAll/bg/1-2e395856236b7e471a90b57590b84fad.jpg" alt="" title="">
+																</picture>
+																<span class="photo-Icon">
+																	<i class="fas fa-images gallary-icon"></i>
+																</span>
+															</div>
+															
+														</a>
+													</div>
+													<div class="Desc">
+													<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
+												</div>
+												</div>
+												
+												
 											</a>
 										</div>
 									</div>
@@ -2013,26 +2054,26 @@
 									<div class="entertainment-lead-area">
 										<div class="thumbnail">
 											<a href="/">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/1680366824.339039099_6205034359573508_930745879847895749_n.jpg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
-												</picture>
-												<div class="Desc">
+												<div class="photo-section">
+													<div class="DVideoListItem align-self-stretch">
+														<a href="/">
+															<div class="DImgZoomBlock">
+																<picture>
+																	<img class="img-fluid img100" src="media/imgAll/bg/14952417292801160377.jpeg" alt="" title="">
+																</picture>
+																<span class="photo-Icon">
+																	<i class="fas fa-images gallary-icon"></i>
+																</span>
+															</div>
+															
+														</a>
+													</div>
+													<div class="Desc">
 													<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
 												</div>
-											</a>
-										</div>
-									</div>
-								</div>
-								<div class="carousel-item">
-									<div class="entertainment-lead-area">
-										<div class="thumbnail">
-											<a href="/">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/1681976536.Photo - 2023-04-20T134152.708.jpg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
-												</picture>
-												<div class="Desc">
-													<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
 												</div>
+												
+												
 											</a>
 										</div>
 									</div>
@@ -2050,52 +2091,134 @@
 					</div>
 					<div class="col-lg-4">
 						<div class="galary-area">
-							<div class="img">
-							<a href="/">
-								<picture>
-									<img class="img-fluid img100" src="media/imgAll/bg/1650281923.mosque_5.jpg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
-								</picture>
-							</a>
+							<div class="row">
+								<div class="col-lg-6">
+									<div class="photo-section">
+										<div class="DVideoListItem align-self-stretch">
+											<a href="/">
+												<div class="DImgZoomBlock">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-1.jpg" alt="" title="">
+													</picture>
+													<span class="photo-Icon">
+														<i class="fas fa-images gallary-icon"></i>
+													</span>
+												</div>
+												<div class="Desc">
+													<h4>০৩ সেপ্টেম্বর ২০২৩
+													</h4>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-6">
+									<div class="photo-section">
+										<div class="DVideoListItem align-self-stretch">
+											<a href="/">
+												<div class="DImgZoomBlock">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/1695367150.96.jpg" alt="" title="">
+													</picture>
+													<span class="photo-Icon">
+														<i class="fas fa-images gallary-icon"></i>
+													</span>
+												</div>
+												<div class="Desc">
+													<h4> ১০ সেপ্টেম্বর ২০১৯
+													</h4>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-6">
+									<div class="photo-section">
+										<div class="DVideoListItem align-self-stretch">
+											<a href="/">
+												<div class="DImgZoomBlock">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/1681976536.Photo - 2023-04-20T134152.708.jpg" alt="" title="">
+													</picture>
+													<span class="photo-Icon">
+														<i class="fas fa-images gallary-icon"></i>
+													</span>
+												</div>
+												<div class="Desc">
+													<h4>০৫ অক্টোবর ২০২১
+													</h4>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-6">
+									<div class="photo-section">
+										<div class="DVideoListItem align-self-stretch">
+											<a href="/">
+												<div class="DImgZoomBlock">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/14952417292801160377.jpeg" alt="" title="">
+													</picture>
+													<span class="photo-Icon">
+														<i class="fas fa-images gallary-icon"></i>
+													</span>
+												</div>
+												<div class="Desc">
+													<h4>২২ অগাস্ট ২০২০
+													</h4>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-6">
+									<div class="photo-section">
+										<div class="DVideoListItem align-self-stretch">
+											<a href="/">
+												<div class="DImgZoomBlock">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-1.jpg" alt="" title="">
+													</picture>
+													<span class="photo-Icon">
+														<i class="fas fa-images gallary-icon"></i>
+													</span>
+												</div>
+												<div class="Desc">
+													<h4>০৩ সেপ্টেম্বর ২০২৩
+													</h4>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-6">
+									<div class="photo-section">
+										<div class="DVideoListItem align-self-stretch">
+											<a href="/">
+												<div class="DImgZoomBlock">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/1695367150.96.jpg" alt="" title="">
+													</picture>
+													<span class="photo-Icon">
+														<i class="fas fa-images gallary-icon"></i>
+													</span>
+												</div>
+												<div class="Desc">
+													<h4>২৫ সেপ্টেম্বর ২০২৩
+													</h4>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
 							</div>
-							<a href="#"><i class="fas fa-images gallary-icon"></i></a>
+
+
 						</div>
-						<div class="lead-news-list">
-									<a href="#">
-										<div class="row">
-											<div class="col-lg-5 col-5">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/news-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-												</picture>
-											</div>
-											<div class="col-lg-7 col-7">
-												<div class="desc">
-													<h2 class="list-title">
-													আজকের আলোচিত ছবি: ০৬ অক্টোবর ২০২৩
-													</h2>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								<div class="lead-news-list">
-									<a href="#">
-										<div class="row">
-											<div class="col-lg-5 col-5">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/1-2e395856236b7e471a90b57590b84fad.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-												</picture>
-											</div>
-											<div class="col-lg-7 col-7">
-												<div class="desc">
-													<h2 class="list-title">
-													আজকের আলোচিত ছবি: ০৬ অক্টোবর ২০২৩
-													</h2>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-					
+
+
+
 					</div>
 				</div>
 			</div>
@@ -2113,6 +2236,301 @@
 	echo $sJSPopper;
 	echo $sJSSlick;
 	echo $sJSEMM; ?>
+
+
+	<script>
+		const CONSTANTS = {
+			DOM_SELECTORS: {
+				datePicker: "",
+				datePickerPrevMonth: ".date_picker_prev_month",
+				datePickerNextMonth: ".date_picker_next_month",
+				datePickerMonthDays: ".date_picker_month_days",
+				datePickerMonthDay: ".date_picker_month_day",
+				datePickerYear: ".date_picker_year",
+				datePickerMonthName: ".date_picker_month_name",
+				datePickerDay: ".day"
+			},
+			DOM_STRINGS: {
+				dataTime: "li[data-time]"
+			},
+			DUMMY_LI_FOR_EMPTY_DAYS: '<li class="day"></li>',
+			DAY_MAP: {
+				0: "Sun",
+				1: "Mon",
+				2: "Tue",
+				3: "Wed",
+				4: "Thu",
+				5: "Fri",
+				6: "Sat"
+			},
+			MONTH_MAP: {
+				0: "January",
+				1: "February",
+				2: "March",
+				3: "April",
+				4: "May",
+				5: "June",
+				6: "July",
+				7: "August",
+				8: "September",
+				9: "October",
+				10: "November",
+				11: "December"
+			}
+		};
+
+		const utils = (function() {
+			function prefixDOMSelectorsWithPickerSelector(pickerSelector) {
+				let DOM_SELECTORS = {};
+				for (let selector in CONSTANTS.DOM_SELECTORS) {
+					DOM_SELECTORS[
+						selector
+					] = `${pickerSelector} ${CONSTANTS.DOM_SELECTORS[selector]}`.trim();
+				}
+				CONSTANTS.DOM_SELECTORS = DOM_SELECTORS;
+			}
+
+			function getDOMElements(DOMSelectors) {
+				let DOMElements = {};
+				for (let selector in DOMSelectors) {
+					if (DOMSelectors.hasOwnProperty(selector)) {
+						DOMElements[selector] = document.querySelector(DOMSelectors[selector]);
+					}
+				}
+				return DOMElements;
+			}
+
+			function getDatePickerWeekDaysNameMarkUp() {
+				return `
+        <li>Sun</li>
+        <li>Mon</li>
+        <li>Tue</li>
+        <li>Wed</li>
+        <li>Thu</li>
+        <li>Fri</li>
+        <li>Sat</li>`;
+			}
+
+			function getDayMarkup(day = 1, isActive = false, time = null) {
+				if (!time) {
+					console.trace(`The time provided for getDayMarkup ${time} is invalid`);
+				}
+				return `
+        <li class="day ${isActive ? "active" : ""}" data-time="${time}">${day}
+          
+        </li>`;
+			}
+
+			function getAllDays() {
+				let days = document.querySelectorAll(CONSTANTS.DOM_SELECTORS.datePickerDay);
+				return [...(days ?? [])];
+			}
+
+			function getDaySuffix(day) {
+				switch (day) {
+					case 1:
+					case 21:
+					case 31:
+						return "st";
+					case 2:
+					case 22:
+						return "nd";
+					case 3:
+					case 23:
+						return "rd";
+					default:
+						return "th";
+				}
+			}
+
+			return {
+				prefixDOMSelectorsWithPickerSelector,
+				getDOMElements,
+				getDatePickerWeekDaysNameMarkUp,
+				getDayMarkup,
+				getAllDays,
+				getDaySuffix
+			};
+		})();
+
+		const model = (function() {
+			const data = {
+				currentDate: new Date(),
+				selectedDate: new Date()
+			};
+
+			function setCurrentDate(newDate) {
+				data.currentDate = newDate;
+			}
+
+			function setSelectedDate(newDate) {
+				data.selectedDate = newDate;
+			}
+
+			function getCurrentDate() {
+				return data.currentDate;
+			}
+
+			function getSelectedDate() {
+				return data.selectedDate;
+			}
+
+			return {
+				setCurrentDate,
+				setSelectedDate,
+				getCurrentDate,
+				getSelectedDate
+			};
+		})();
+
+		const view = (function(model, utils) {
+			function removeDays() {
+				const allDays = utils.getAllDays();
+				allDays.forEach((day) => day.remove());
+			}
+
+			function fillEmptyDays(count) {
+				const DOMElements = utils.getDOMElements(CONSTANTS.DOM_SELECTORS);
+				for (let i = 0; i < count; i++) {
+					DOMElements.datePickerMonthDays.insertAdjacentHTML(
+						"beforeend",
+						CONSTANTS.DUMMY_LI_FOR_EMPTY_DAYS
+					);
+				}
+			}
+
+			function fillDay(day, isActive = false, time) {
+				const dayMarkUp = utils.getDayMarkup(day, isActive, time);
+				const DOMElements = utils.getDOMElements(CONSTANTS.DOM_SELECTORS);
+				DOMElements.datePickerMonthDays.insertAdjacentHTML("beforeend", dayMarkUp);
+			}
+
+			function fillCurrentMonth(string) {
+				const DOMElements = utils.getDOMElements(CONSTANTS.DOM_SELECTORS);
+				DOMElements.datePickerMonthName.textContent = string;
+			}
+
+			function fillSelectedDate(month, date, day, year) {
+				const DOMElements = utils.getDOMElements(CONSTANTS.DOM_SELECTORS);
+				DOMElements.datePickerMonthDay.innerHTML = `${
+      CONSTANTS.MONTH_MAP[month]
+    } ${date}<sup>${utils.getDaySuffix(date)}</sup>, ${CONSTANTS.DAY_MAP[day]}`;
+				DOMElements.datePickerYear.textContent = year;
+			}
+
+			return {
+				removeDays,
+				fillEmptyDays,
+				fillDay,
+				fillCurrentMonth,
+				fillSelectedDate
+			};
+		})(model, utils);
+
+		const controller = (function(model, view, utils) {
+			let DOMElements = null;
+
+			function init(pickerSelector = "", selectedDate = new Date()) {
+				console.log('selectedDate', selectedDate)
+				utils.prefixDOMSelectorsWithPickerSelector(pickerSelector);
+				DOMElements = utils.getDOMElements(CONSTANTS.DOM_SELECTORS);
+				if (!DOMElements.datePicker) {
+					throw new Error(
+						`Date Picker with selector ${pickerSelector} not found in the document`
+					);
+				}
+				DOMElements.datePickerNextMonth.addEventListener(
+					"click",
+					handleNextMonthClick
+				);
+				DOMElements.datePickerPrevMonth.addEventListener(
+					"click",
+					handlePrevMonthClick
+				);
+				DOMElements.datePickerMonthDays.addEventListener("click", handleSelectDate);
+				if (selectedDate.constructor !== Date) {
+					throw new Error(`The initial date ${selectedDate} is not a Date Object`);
+				}
+				let clonedSelectedDate = new Date(selectedDate.getTime());
+				let clonedCurrentDate = new Date(selectedDate.getTime());
+				model.setSelectedDate(clonedSelectedDate);
+				model.setCurrentDate(clonedCurrentDate);
+				render(selectedDate);
+			}
+
+			function handleSelectDate(event) {
+				const time = event.target.closest(CONSTANTS.DOM_STRINGS.dataTime)?.dataset
+					.time;
+				if (!time) return;
+				model.setSelectedDate(new Date(Number(time)));
+				model.setCurrentDate(new Date(Number(time)));
+				render();
+			}
+
+			function handleNextMonthClick() {
+				render();
+			}
+
+			function handlePrevMonthClick() {
+				let currentDate = new Date(model.getCurrentDate().getTime());
+				currentDate.setMonth(currentDate.getMonth() - 2);
+				model.setCurrentDate(currentDate);
+				render();
+			}
+
+			function render(selectedDate = null) {
+				updateSelectedDateMarkUp();
+				view.removeDays();
+				let currentDate = new Date(
+					selectedDate?.getTime() ?? model.getCurrentDate().getTime()
+				);
+				let selected = model.getSelectedDate();
+				let selectedDay = selected.getDate();
+				let selectedMonth = selected.getMonth();
+				let selectedYear = selected.getFullYear();
+				currentDate.setDate(1);
+				let renderingMonth = currentDate.getMonth();
+				view.fillEmptyDays(currentDate.getDay());
+				view.fillCurrentMonth(
+					`${CONSTANTS.MONTH_MAP[renderingMonth]} - ${currentDate.getFullYear()}`
+				);
+				while (currentDate.getMonth() === renderingMonth) {
+					let currentMonth = currentDate.getMonth();
+					let currentDay = currentDate.getDate();
+					let currentYear = currentDate.getFullYear();
+					let currentStringDate = `${currentDay}/${
+        currentMonth + 1
+      }/${currentYear}`;
+					let selectedStringDate = `${selectedDay}/${
+        selectedMonth + 1
+      }/${selectedYear}`;
+					view.fillDay(
+						currentDate.getDate(),
+						selectedStringDate === currentStringDate,
+						currentDate.getTime()
+					);
+					currentDate.setDate(currentDay + 1);
+				}
+				model.setCurrentDate(currentDate);
+			}
+
+			function updateSelectedDateMarkUp() {
+				const currentDate = new Date(model.getSelectedDate().getTime());
+				view.fillSelectedDate(
+					currentDate.getMonth(),
+					currentDate.getDate(),
+					currentDate.getDay(),
+					currentDate.getFullYear()
+				);
+			}
+
+			return {
+				init
+			};
+		})(model, view, utils);
+
+		controller.init("#date_picker_1");
+	</script>
 
 </body>
 

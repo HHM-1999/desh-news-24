@@ -51,7 +51,6 @@ $(document).ready(function () {
 
 });
 
-
 //search box//
 function showSearchBox() {
     document.getElementById("searchcontainer").style.display = "block";
@@ -64,3 +63,7 @@ function hideSearchBox() {
 function performSearch() {
     document.getElementById("searchInput").value;
 }
+
+
+
+  
