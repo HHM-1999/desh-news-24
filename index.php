@@ -288,7 +288,7 @@
 									<div class="tab-content">
 										<div class="tab-pane active" id="sorbosesh-tab" role="tabpanel1">
 
-											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 360px; overflow: auto;" data-mcs-theme="dark" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0">
+											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 369px; overflow: auto;" data-mcs-theme="dark" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0">
 												<div class="DLatestNewsList">
 													<a href="#">
 														<span>১</span>
@@ -364,7 +364,7 @@
 										</div>
 										<div class="tab-pane" id="sorbadhik-tab" role="tabpanel2">
 
-											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 360px; overflow: auto;" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" data-mcs-theme="dark">
+											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 369px; overflow: auto;" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" data-mcs-theme="dark">
 												<div class="DLatestNewsList">
 													<a href="#">
 														<span>১</span>
