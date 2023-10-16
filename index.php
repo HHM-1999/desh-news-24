@@ -508,12 +508,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1697046820.BeFunky-collage (67).jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
@@ -526,12 +526,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1696794579.Kamrul-Hasan-and-Md-Saladin.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														নড়াইলের ২০ ঋষি পরিবার পেল ৪০টি ছাগল
@@ -544,12 +544,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1697046820.BeFunky-collage (67).jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														উপকূলীয় লবণাক্ত এলাকায় গো-খাদ্যের চাহিদা পূরণ করবে পাকচোং ঘাস 
@@ -586,12 +586,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1681976536.Photo - 2023-04-20T134152.708.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														গাজা উপত্যকায় ইসরায়েলি হামলায় নিহত বেড়ে ১২০০
@@ -604,12 +604,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1696855013.sundarban (2).jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														‘ভালো-খারাপের বিশ্বাস ভেঙে দিতেই নতুন শিক্ষাক্রম’
@@ -622,12 +622,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/news-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
@@ -665,12 +665,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1697086827.HIGH-COURT-FILE.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														তিনি বলেন, ‘সিনেমাটি নির্মাণের শুরুতে কিছু বাধা এসেছিল, তবুও এটি শেষ হয়েছে।
@@ -683,12 +683,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1696580553.IMG-20231005-WA0012.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8 ">
 												<div class="desc">
 													<h2 class="list-title">
 														আমার পরিবার, মা-বাবা সম্পর্কে জানতে পারবেন
@@ -701,12 +701,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1696748084.Ustad-alauddin-kha-pic.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														সিনেমাটির প্রিমিয়ার শোতে যোগ দিয়ে প্রধানমন্ত্রী এ আহ্বান জানান
@@ -766,12 +766,12 @@
 									<div class="lead-news-list">
 										<a href="#">
 											<div class="row">
-												<div class="col-lg-5 col-5">
+												<div class="col-lg-5 col-5 col-md-4">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-2.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 													</picture>
 												</div>
-												<div class="col-lg-7 col-7">
+												<div class="col-lg-7 col-7 col-md-8">
 													<div class="desc">
 														<h2 class="list-title">
 															বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
@@ -784,12 +784,12 @@
 									<div class="lead-news-list">
 										<a href="#">
 											<div class="row">
-												<div class="col-lg-5 col-5">
+												<div class="col-lg-5 col-5 col-md-4">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/lead-list4.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 													</picture>
 												</div>
-												<div class="col-lg-7 col-7">
+												<div class="col-lg-7 col-7 col-md-8">
 													<div class="desc">
 														<h2 class="list-title">
 															ঝুঁকিপূর্ণ ভবনসহ চতুর্মুখী সমস্যায় জর্জরিত ঢাবির কুয়েত মৈত্রী হল
@@ -802,12 +802,12 @@
 									<div class="lead-news-list">
 										<a href="#">
 											<div class="row">
-												<div class="col-lg-5 col-5">
+												<div class="col-lg-5 col-5 col-md-4">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.webp" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 													</picture>
 												</div>
-												<div class="col-lg-7 col-7">
+												<div class="col-lg-7 col-7 col-md-8">
 													<div class="desc">
 														<h2 class="list-title">
 															বুধবার (২৭ সেপ্টেম্বর) নৌপরিবহন মন্ত্রণালয়ের সিনিয়র তথ্য অফিসার
@@ -820,12 +820,12 @@
 									<div class="lead-news-list">
 										<a href="#">
 											<div class="row">
-												<div class="col-lg-5 col-5">
+												<div class="col-lg-5 col-5 col-md-4">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-3.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 													</picture>
 												</div>
-												<div class="col-lg-7 col-7">
+												<div class="col-lg-7 col-7 col-md-8">
 													<div class="desc">
 														<h2 class="list-title">
 															এতে নৌপরিবহন প্রতিমন্ত্রী খালিদ মাহমুদ চৌধুরী এমপি প্রধান অতিথি হিসেবে উপস্থিত থাকবেন
@@ -915,12 +915,12 @@
 									<div class="lead-news-list">
 										<a href="#">
 											<div class="row">
-												<div class="col-lg-5 col-5">
+												<div class="col-lg-5 col-5 col-md-4">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-2.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 													</picture>
 												</div>
-												<div class="col-lg-7 col-7">
+												<div class="col-lg-7 col-7 col-md-8">
 													<div class="desc">
 														<h2 class="list-title">
 															বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
@@ -933,12 +933,12 @@
 									<div class="lead-news-list">
 										<a href="#">
 											<div class="row">
-												<div class="col-lg-5 col-5">
+												<div class="col-lg-5 col-5 col-md-4">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/lead-list4.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 													</picture>
 												</div>
-												<div class="col-lg-7 col-7">
+												<div class="col-lg-7 col-7 col-md-8">
 													<div class="desc">
 														<h2 class="list-title">
 															ঝুঁকিপূর্ণ ভবনসহ চতুর্মুখী সমস্যায় জর্জরিত ঢাবির কুয়েত মৈত্রী হল
@@ -951,12 +951,12 @@
 									<div class="lead-news-list">
 										<a href="#">
 											<div class="row">
-												<div class="col-lg-5 col-5">
+												<div class="col-lg-5 col-5 col-md-4">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.webp" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 													</picture>
 												</div>
-												<div class="col-lg-7 col-7">
+												<div class="col-lg-7 col-7 col-md-8">
 													<div class="desc">
 														<h2 class="list-title">
 															বুধবার (২৭ সেপ্টেম্বর) নৌপরিবহন মন্ত্রণালয়ের সিনিয়র তথ্য অফিসার
@@ -969,12 +969,12 @@
 									<div class="lead-news-list">
 										<a href="#">
 											<div class="row">
-												<div class="col-lg-5 col-5">
+												<div class="col-lg-5 col-5 col-md-4">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-3.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 													</picture>
 												</div>
-												<div class="col-lg-7 col-7">
+												<div class="col-lg-7 col-7 col-md-8">
 													<div class="desc">
 														<h2 class="list-title">
 															এতে নৌপরিবহন প্রতিমন্ত্রী খালিদ মাহমুদ চৌধুরী এমপি প্রধান অতিথি হিসেবে উপস্থিত থাকবেন
@@ -1012,12 +1012,12 @@
 									<div class="lead-news-list">
 										<a href="#">
 											<div class="row">
-												<div class="col-lg-5 col-5">
+												<div class="col-lg-5 col-5 col-md-4">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/news-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 													</picture>
 												</div>
-												<div class="col-lg-7 col-7">
+												<div class="col-lg-7 col-7 col-md-8">
 													<div class="desc">
 														<h2 class="list-title">
 															বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
@@ -1377,12 +1377,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5  col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1650281923.mosque_5.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														বিশ্বকাপের আরও একটা হাইভোল্টেজ ম্যাচে আজ মুখোমুখি হচ্ছে অস্ট্রেলিয়া ও দক্ষিণ আফ্রিকা
@@ -1395,12 +1395,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1695865537.Phot - 2023-09-28T074530.271.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														কঠিন এক পরিস্থিতিতে দক্ষিণ আফ্রিকার বিপক্ষে মাঠে নামছে পাঁচবারের বিশ্ব চ্যাম্পিয়ন অস্ট্রেলিয়া
@@ -1413,12 +1413,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1696573668.Phot - 2023-10-06T122652.790.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														স্বাগতিক ভারতের বিপক্ষে প্রথম ম্যাচে ব্যাটিং-বোলিং উভয় ডিপার্টমেন্টে বিধ্বস্ত হয়েছিল
@@ -1455,12 +1455,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1-20231005020240.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														ঢাকা বিশ্ববিদ্যালয়ের (ঢাবি) সংস্কৃত বিভাগে ‘প্রভাষক’ পদে জনবল নিয়োগ দেওয়া হবে।
@@ -1473,12 +1473,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1695367150.96.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														রেজিস্ট্রার, ঢাকা বিশ্ববিদ্যালয় এর অনুকূলে পে-অর্ডার/ব্যাংক ড্রাফটের মাধ্যমে ৭৫০ টাকা পাঠাতে হবে
@@ -1491,12 +1491,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/news-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
@@ -1532,12 +1532,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/news-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														তারা হলেন- ব্রাহ্মণবাড়িয়ার নবীনগর থানার বিটঘর ইউনিয়নের মৃত ।
@@ -1550,12 +1550,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1696580553.IMG-20231005-WA0012.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														শামসুল হকের ছেলে মো. আলাউদ্দীন (২৩) ও আলাউদ্দিনের বোন জাহেদা বেগম (৩৫)
@@ -1568,12 +1568,12 @@
 								<div class="lead-news-list">
 									<a href="#">
 										<div class="row">
-											<div class="col-lg-5 col-5">
+											<div class="col-lg-5 col-5 col-md-4">
 												<picture>
 													<img class="img-fluid img100" src="media/imgAll/bg/1695367150.96.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 												</picture>
 											</div>
-											<div class="col-lg-7 col-7">
+											<div class="col-lg-7 col-7 col-md-8">
 												<div class="desc">
 													<h2 class="list-title">
 														বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা

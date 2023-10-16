@@ -151,6 +151,7 @@ ul {
 .news-header2 {
 	display: none;
 }
+
 .sticky {
 	position: fixed;
 	top: 0px;
@@ -1019,7 +1020,8 @@ tr {
 	line-height: 27px;
 	padding: 10px 7px;
 }
-.DVideoTop .Desc h3:hover{
+
+.DVideoTop .Desc h3:hover {
 	color: #ccc;
 }
 
@@ -1745,11 +1747,265 @@ tr {
 @media (min-width:1200px) and (max-width:1500px) {}
 
 /* LG Device :992px. */
-@media (min-width:992px) and (max-width:1200px) {}
+@media (min-width:992px) and (max-width:1200px) {
+	.navbar-default .navbar-nav>li>a {
+		font-size: 15px;
+		color: #fff;
+		line-height: 24px;
+	}
 
+	.nav-link i {
+		font-size: 15px;
+	}
+
+	.DHeaderNav .navbar-nav .nav-link {
+		padding: 10px 9px 10px 12px;
+	}
+
+	.navbar-expand-lg .navbar-nav .dropdown-menu .nav-link {
+		text-decoration: none;
+		color: #fff;
+		font-size: 15px;
+		background-color: #12412d;
+		padding: 8px 11px;
+	}
+	.lead-news-area {
+		background: #dbd9d9;
+		margin-bottom: 14px;
+	}
+
+	.lead-news-area .Desc .Title {
+		color: #000;
+		font-size: 21px;
+		font-weight: 600;
+		line-height: 32px;
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+		padding: 20px;
+	}
+
+	.lead-news-area .Desc .quote {
+		-webkit-line-clamp: 3;
+	}
+
+	.lead-news-section .lead-news-list-title {
+		color: #000;
+		font-size: 18px;
+		font-weight: 400;
+		line-height: 24px;
+		display: -webkit-box;
+		-webkit-line-clamp: 4;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+		padding-top: 10px;
+		padding-bottom: 38px;
+	}
+	.photo-section .DVideoListItem .Desc h4 {
+		color: #f5f5f5;
+		font-weight: 700;
+		-webkit-line-clamp: 6;
+		font-size: 13px;
+		line-height: 4px;
+		/* padding: 12px; */
+	}
+	.entertainment-area .quote {
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		margin-top: 0px;
+	}
+	.lifestyle-section .lead-news-list-title {
+		font-size: 17px;
+	}
+	.entertainment-lead-area .Desc .Title {
+		font-size: 24px;
+	}
+	.rajniti-area .national-text {
+		font-size: 14px;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		padding-top: 20px;
+	}
+	.rajniti-area .national-title {
+		font-size: 18px;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		padding-top: 15px;
+	}
+	.list-title {
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+	}
+
+}
 
 /* MD Device :768px. */
-@media (min-width:768px) and (max-width:991px) {}
+@media (min-width:768px) and (max-width:991px) {
+	.news-header {
+		display: none;
+	}
+
+	.news-header2 {
+		display: block;
+	}
+
+	.national-lead-news .lead-news-list-title {
+
+		font-size: 22px;
+		font-weight: 400;
+		line-height: 30px;
+
+	}
+
+	.list-title {
+		font-size: 18px;
+		line-height: 26px;
+	}
+
+	.list-title:hover {
+		color: #b50505;
+	}
+
+	.Dnews-date {
+		font-size: 16px;
+		color: #b50505;
+		font-weight: 600;
+	}
+
+	.lead-news-area .Desc .Title {
+		padding: 20px 20px 0 20px;
+	}
+
+	.lead-news-list-title {
+		font-size: 16px;
+	}
+
+	.advertise-Mobile-hide {
+		display: none;
+	}
+
+	.rajniti-area .national-text {
+		display: none;
+	}
+
+	.rajniti-area .desc {
+		padding-bottom: 30px;
+	}
+
+	.DVideoListItem {
+		margin-top: 10px;
+	}
+
+	.health-area .national-text {
+		display: none;
+	}
+
+	.health-area .desc {
+		padding-bottom: 30px;
+	}
+
+	.bandorban-heading .desc .lead-news-list-title {
+		font-size: 18px;
+	}
+
+	.entertainment-lead-area {
+		margin-bottom: 20px;
+	}
+
+	.entertainment-area .quote {
+		display: none;
+	}
+
+	.DVideoTop .Desc {
+		padding: 10px 15px 10px 5px;
+		height: 100px;
+	}
+
+	.lifestyle-section .DVideoTop {
+		margin-bottom: 20px;
+	}
+
+	.area-details p {
+		font-size: 13px;
+	}
+
+	.DLatestNewsList h3 {
+		line-height: 62px;
+	}
+
+	.entertainment-lead-area .Desc .Title {
+		font-size: 20px;
+	}
+
+	.searchIcon {
+		font-size: 18px;
+		display: flex;
+		justify-content: end;
+		padding: 40px 20px;
+		color: #fff;
+	}
+
+	.searchIcon:hover {
+		color: #ccc;
+	}
+
+	.navbar-toggler-icon {
+		margin-top: 20px;
+	}
+
+	.search_block {
+		padding: 14px;
+	}
+
+	.navbar-toggler {
+		padding: 14px 0;
+	}
+
+	.DHeaderNav .navbar-expand-lg .navbar-nav .nav-link {
+		padding: 10px 0px 10px 16px;
+	}
+
+	.navbar-expand-lg .navbar-nav .dropdown-menu a {
+		background-color: #d0d0d0;
+		color: #000;
+		width: 100%;
+		font-size: 17px;
+		line-height: 25px;
+	}
+
+	.offcanvas-header:hover button {
+		color: #a31d21;
+	}
+
+	.navbar-default .navbar-nav>li>a {
+		font-size: 18px;
+		color: #000;
+		line-height: 26px;
+	}
+
+	.nav-link i {
+		margin-right: 10px;
+		font-size: 18px;
+		color: #12412d;
+		margin-bottom: 20px;
+	}
+
+	.news-header {
+		display: none;
+	}
+
+	.thumbnail .photo-section .photo-Icon i {
+		width: 60px;
+		height: 60px;
+		line-height: 60px;
+
+	}
+}
 
 
 /* Extra small Device. */
@@ -1803,6 +2059,7 @@ tr {
 	.bandorban-heading .desc .lead-news-list-title {
 		font-size: 18px;
 	}
+
 	.entertainment-lead-area {
 		margin-bottom: 20px;
 	}
@@ -1810,22 +2067,28 @@ tr {
 	.entertainment-area .quote {
 		display: none;
 	}
+
 	.DVideoTop .Desc {
 		padding: 10px 15px 10px 5px;
 		height: 100px;
 	}
+
 	.lifestyle-section .DVideoTop {
 		margin-bottom: 20px;
 	}
+
 	.area-details p {
 		font-size: 13px;
 	}
+
 	.DLatestNewsList h3 {
 		line-height: 62px;
 	}
+
 	.entertainment-lead-area .Desc .Title {
 		font-size: 20px;
 	}
+
 	.searchIcon {
 		font-size: 18px;
 		display: flex;
@@ -1833,21 +2096,27 @@ tr {
 		padding: 23px 20px;
 		color: #fff;
 	}
+
 	.searchIcon:hover {
 		color: #ccc;
 	}
+
 	.navbar-toggler-icon {
 		margin-top: 6px;
 	}
+
 	.search_block {
 		padding: 14px;
 	}
+
 	.navbar-toggler {
 		padding: 14px 0;
 	}
+
 	.DHeaderNav .navbar-expand-lg .navbar-nav .nav-link {
 		padding: 10px 0px 10px 16px;
 	}
+
 	.navbar-expand-lg .navbar-nav .dropdown-menu a {
 		background-color: #d0d0d0;
 		color: #000;
@@ -1855,23 +2124,28 @@ tr {
 		font-size: 17px;
 		line-height: 25px;
 	}
+
 	.offcanvas-header:hover button {
 		color: #a31d21;
 	}
+
 	.navbar-default .navbar-nav>li>a {
 		font-size: 18px;
 		color: #000;
 		line-height: 26px;
 	}
+
 	.nav-link i {
 		margin-right: 10px;
 		font-size: 18px;
 		color: #12412d;
 		margin-bottom: 20px;
 	}
+
 	.news-header {
 		display: none;
 	}
+
 	.thumbnail .photo-section .photo-Icon i {
 		width: 60px;
 		height: 60px;
