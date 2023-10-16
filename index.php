@@ -237,39 +237,7 @@
 							</picture>
 						</div>
 
-						<!-- arkav section -->
-						<div class="datePicker-area">
-							<div class="datepicker-title">
-								<a href="#">আর্কাইভ</a>
-
-							</div>
-							<section class="date_picker_wrapper" id="date_picker_1">
-								<div class="date_picker_header">
-									<button class="date_picker_year"></button>
-									<h3 class="date_picker_month_day"></h3>
-								</div>
-								<div class="date_picker_body">
-									<div class="date_picker_month_navigation">
-										<button class="date_picker_prev_month date_picker_month_nav_btn">
-											<ion-icon name="caret-back-circle-outline"><i class="fas fa-angle-left"></i></ion-icon>
-										</button>
-										<h2 class="date_picker_month_name"></h2>
-										<button class="date_picker_next_month date_picker_month_nav_btn">
-											<ion-icon name="caret-forward-circle-outline"><i class="fas fa-angle-right"></i></ion-icon>
-										</button>
-									</div>
-									<ul class="date_picker_month_days">
-										<li class="week-name">Sun</li>
-										<li class="week-name">Mon</li>
-										<li class="week-name">Tue</li>
-										<li class="week-name">Wed</li>
-										<li class="week-name">Thu</li>
-										<li class="week-name">Fri</li>
-										<li class="week-name">Sat</li>
-									</ul>
-								</div>
-							</section>
-						</div>
+					
 
 						<!-- sorbosesh-section -->
 						<div class="DLPSTab2">
@@ -472,6 +440,39 @@
 									</div>
 								</div>
 							</div>
+						</div>
+							<!-- arkav section -->
+							<div class="datePicker-area">
+							<div class="datepicker-title">
+								<a href="#">আর্কাইভ</a>
+
+							</div>
+							<section class="date_picker_wrapper" id="date_picker_1">
+								<div class="date_picker_header">
+									<button class="date_picker_year"></button>
+									<h3 class="date_picker_month_day"></h3>
+								</div>
+								<div class="date_picker_body">
+									<div class="date_picker_month_navigation">
+										<button class="date_picker_prev_month date_picker_month_nav_btn">
+											<ion-icon name="caret-back-circle-outline"><i class="fas fa-angle-left"></i></ion-icon>
+										</button>
+										<h2 class="date_picker_month_name"></h2>
+										<button class="date_picker_next_month date_picker_month_nav_btn">
+											<ion-icon name="caret-forward-circle-outline"><i class="fas fa-angle-right"></i></ion-icon>
+										</button>
+									</div>
+									<ul class="date_picker_month_days">
+										<li class="week-name">Sun</li>
+										<li class="week-name">Mon</li>
+										<li class="week-name">Tue</li>
+										<li class="week-name">Wed</li>
+										<li class="week-name">Thu</li>
+										<li class="week-name">Fri</li>
+										<li class="week-name">Sat</li>
+									</ul>
+								</div>
+							</section>
 						</div>
 
 					</div>
@@ -722,7 +723,7 @@
 
 		</section>
 
-		<!-- =========আইন-বিচার========-->
+		<!-- =========সারাদেশ========-->
 		<section class="menu-section-2">
 			<div class="container">
 				<div class="row">
@@ -730,7 +731,7 @@
 						<div class="rajniti-section">
 							<div class="section-heading">
 								<a href="#">
-									<h3 class="Title">আইন-বিচার<i class="fa-solid fa-angles-right"></i></h3>
+									<h3 class="Title">সারাদেশ<i class="fa-solid fa-angles-right"></i></h3>
 								</a>
 							</div>
 						</div>
@@ -875,8 +876,166 @@
 				</div>
 			</div>
 		</section>
-		<!--========advertisement ====== -->
-		<div class="advertise-section pt-3">
+		<!-- চট্টগ্রাম+ অর্থনীতি-ব্যবসা -->
+		<section class="menu-section-6">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8">
+						<div class="health-section">
+							<div class="section-heading">
+								<a href="#">
+									<h3 class="Title">চট্টগ্রাম <i class="fa-solid fa-angles-right"></i></h3>
+								</a>
+							</div>
+						</div>
+						<div class="health-area">
+							<div class="row">
+								<div class="col-lg-6">
+									<div class="national-lead-news">
+										<div class="national-media">
+											<picture>
+												<img class="img-fluid img100" src="media/imgAll/bg/lead-news-3.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+											</picture>
+										</div>
+										<div class="desc">
+											<a href="#">
+												<h2 class="national-title">
+													ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩
+												</h2>
+											</a>
+											<p class="national-text">নিখোঁজের ১৮ ঘণ্টা পর মা ও দুই ছেলের মরদেহ উদ্ধার |
+												ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩.বৃহস্পতিবার থেকে ৩ দিনের ছুটিতে দেশ
+												বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা ওপেনার তামিম ইকবাল। মঙ্গলবার (২৬ সেপ্টেম্বর) তাকে ছাড়াই ১৫ সদস্যর দল ঘোষণা করেছে
+											</p>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-6">
+									<div class="lead-news-list">
+										<a href="#">
+											<div class="row">
+												<div class="col-lg-5 col-5">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-2.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+													</picture>
+												</div>
+												<div class="col-lg-7 col-7">
+													<div class="desc">
+														<h2 class="list-title">
+															বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
+														</h2>
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+									<div class="lead-news-list">
+										<a href="#">
+											<div class="row">
+												<div class="col-lg-5 col-5">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-list4.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+													</picture>
+												</div>
+												<div class="col-lg-7 col-7">
+													<div class="desc">
+														<h2 class="list-title">
+															ঝুঁকিপূর্ণ ভবনসহ চতুর্মুখী সমস্যায় জর্জরিত ঢাবির কুয়েত মৈত্রী হল
+														</h2>
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+									<div class="lead-news-list">
+										<a href="#">
+											<div class="row">
+												<div class="col-lg-5 col-5">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.webp" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+													</picture>
+												</div>
+												<div class="col-lg-7 col-7">
+													<div class="desc">
+														<h2 class="list-title">
+															বুধবার (২৭ সেপ্টেম্বর) নৌপরিবহন মন্ত্রণালয়ের সিনিয়র তথ্য অফিসার
+														</h2>
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+									<div class="lead-news-list">
+										<a href="#">
+											<div class="row">
+												<div class="col-lg-5 col-5">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-3.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+													</picture>
+												</div>
+												<div class="col-lg-7 col-7">
+													<div class="desc">
+														<h2 class="list-title">
+															এতে নৌপরিবহন প্রতিমন্ত্রী খালিদ মাহমুদ চৌধুরী এমপি প্রধান অতিথি হিসেবে উপস্থিত থাকবেন
+														</h2>
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="education-area">
+							<div class="national-area">
+								<div class="section-heading">
+									<a href="#">
+										<h3 class="Title">অর্থনীতি-ব্যবসা <i class="fa-solid fa-angles-right"></i></h3>
+									</a>
+								</div>
+								<div class="national-lead-news">
+									<div class="main-news-list">
+										<a href="#">
+											<picture>
+												<img class="img-fluid img100" src="media/imgAll/bg/advertisement-5.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+											</picture>
+											<div class="desc">
+												<h2 class="lead-news-list-title">
+													সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+												</h2>
+											</div>
+										</a>
+									</div>
+									<div class="lead-news-list">
+										<a href="#">
+											<div class="row">
+												<div class="col-lg-5 col-5">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/news-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+													</picture>
+												</div>
+												<div class="col-lg-7 col-7">
+													<div class="desc">
+														<h2 class="list-title">
+															বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
+														</h2>
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</section>
+				<!--========advertisement ====== -->
+				<div class="advertise-section pt-3">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
@@ -1054,7 +1213,382 @@
 				</div>
 			</div>
 		</section>
-		<!-- বিনোদন-->
+		<!-- আইন-বিচার+শিক্ষা+তথ্য ও প্রযুক্তি -->
+		<section class="menu-section-7">
+			<div class="container">
+				<div class="parborto-chottogram-area">
+					<div class="row">
+						<!--আইন-বিচার  -->
+						<div class="col-lg-4">
+							<div class="bandorban-heading">
+								<div class="section-heading">
+									<a href="#">
+										<h3 class="Title">আইন-বিচার<i class="fa-solid fa-angles-right"></i></h3>
+									</a>
+								</div>
+								<div class="main-news-list">
+									<a href="#">
+										<picture>
+											<img class="img-fluid img100" src="media/imgAll/bg/planning-minister-20231010174227.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+										</picture>
+										<div class="desc">
+											<h2 class="lead-news-list-title">
+												মঙ্গলবার (১০ অক্টোবর) সকালে রাজধানীর গুলশানে
+											</h2>
+										</div>
+									</a>
+								</div>
+								<div class="category-news-list">
+									<ul>
+										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
+												<p>মন্ত্রী আরও বলেন, ভূমির মালিকানা নিয়ে হাজার বছর ধরে যে অন্যায় ঘটছে তা এখনো বন্ধ করা যায়নি</p>
+											</a></li>
+									</ul>
+									<ul>
+										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
+												<p>ভূমি অধিকার সংক্রান্ত আঞ্চলিক সেমিনারে বক্তারা বলেন</p>
+											</a></li>
+									</ul>
+									<ul>
+										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
+												<p>ভূমিতে ন্যায্য মালিকানা প্রতিষ্ঠায় কোনো সরকারই কার্যকর উদ্যোগ নেয়নি</p>
+											</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+						<!-- শিক্ষা-->
+						<div class="col-lg-4">
+							<div class="bandorban-heading">
+								<div class="section-heading">
+									<a href="#">
+										<h3 class="Title">শিক্ষা<i class="fa-solid fa-angles-right"></i></h3>
+									</a>
+								</div>
+								<div class="main-news-list">
+									<a href="#">
+										<picture>
+											<img class="img-fluid img100" src="media/imgAll/bg/1695367150.96.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+										</picture>
+										<div class="desc">
+											<h2 class="lead-news-list-title">
+												জলবায়ু পরিবর্তনের কারণে ভূমির মালিকানা নিয়ে আরও সংকট তৈরি হচ্ছে
+											</h2>
+										</div>
+									</a>
+								</div>
+								<div class="category-news-list">
+									<ul>
+										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
+												<p>বাংলাদেশ পুলিশ জনগণের হৃদয়ে স্থান করে নিয়েছে বলে মন্তব্য </p>
+											</a></li>
+									</ul>
+									<ul>
+										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
+												<p>করেছেন পুলিশের মহাপরিদর্শক (আইজিপি) চৌধুরী আবদুল্লাহ আল-মামুন</p>
+											</a></li>
+									</ul>
+									<ul>
+										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
+												<p>তিন মাস পর অনুষ্ঠিত হতে যাচ্ছে দ্বাদশ জাতীয় সংসদ নির্বাচন</p>
+											</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<!-- তথ্য ও প্রযুক্তি -->
+						<div class="col-lg-4">
+							<div class="bandorban-heading">
+								<div class="section-heading">
+									<a href="#">
+										<h3 class="Title">তথ্য ও প্রযুক্তি<i class="fa-solid fa-angles-right"></i></h3>
+									</a>
+								</div>
+								<div class="main-news-list">
+									<a href="#">
+										<picture>
+											<img class="img-fluid img100" src="media/imgAll/bg/1650281923.mosque_5.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+										</picture>
+										<div class="desc">
+											<h2 class="lead-news-list-title">
+												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+											</h2>
+										</div>
+									</a>
+								</div>
+								<div class="category-news-list">
+									<ul>
+										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
+												<p>নানা নাটকীয়তার পর সাবেক ওয়ানডে অধিনায়ক</p>
+											</a></li>
+									</ul>
+									<ul>
+										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
+												<p>টাইগার ওপেনারের আকস্মিক দল থেকে বাদ পড়ায় নানা প্রশ্নের সৃষ্টি হয়েছে</p>
+											</a></li>
+									</ul>
+									<ul>
+										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
+												<p>তিন মাস পর অনুষ্ঠিত হতে যাচ্ছে দ্বাদশ জাতীয় সংসদ নির্বাচন</p>
+											</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- advertisement-section -->
+		<div class="advertise-section pt-3">
+			<div class="container">
+				<picture>
+					<img class="img-fluid img100" src="media/imgAll/bg/advertisement.jpeg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
+				</picture>
+			</div>
+		</div>
+		<!--খেলা+ধর্ম+স্বাস্থ্য -->
+		<section class="menu-section-5">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="national-area">
+							<div class="section-heading">
+								<a href="#">
+									<h3 class="Title">খেলা <i class="fa-solid fa-angles-right"></i></h3>
+								</a>
+							</div>
+							<div class="national-lead-news">
+								<div class="main-news-list">
+									<a href="#">
+										<picture>
+											<img class="img-fluid img100" src="media/imgAll/bg/aus-sa-preview-20231012114032.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+										</picture>
+										<div class="desc">
+											<h2 class="lead-news-list-title">
+												হাইভোল্টেজ ম্যাচের জন্য প্রস্তুত অস্ট্রেলিয়া-দক্ষিণ আফ্রিকা
+											</h2>
+										</div>
+									</a>
+								</div>
+								<div class="lead-news-list">
+									<a href="#">
+										<div class="row">
+											<div class="col-lg-5 col-5">
+												<picture>
+													<img class="img-fluid img100" src="media/imgAll/bg/1650281923.mosque_5.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+												</picture>
+											</div>
+											<div class="col-lg-7 col-7">
+												<div class="desc">
+													<h2 class="list-title">
+														বিশ্বকাপের আরও একটা হাইভোল্টেজ ম্যাচে আজ মুখোমুখি হচ্ছে অস্ট্রেলিয়া ও দক্ষিণ আফ্রিকা
+													</h2>
+												</div>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="lead-news-list">
+									<a href="#">
+										<div class="row">
+											<div class="col-lg-5 col-5">
+												<picture>
+													<img class="img-fluid img100" src="media/imgAll/bg/1695865537.Phot - 2023-09-28T074530.271.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+												</picture>
+											</div>
+											<div class="col-lg-7 col-7">
+												<div class="desc">
+													<h2 class="list-title">
+														কঠিন এক পরিস্থিতিতে দক্ষিণ আফ্রিকার বিপক্ষে মাঠে নামছে পাঁচবারের বিশ্ব চ্যাম্পিয়ন অস্ট্রেলিয়া
+													</h2>
+												</div>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="lead-news-list">
+									<a href="#">
+										<div class="row">
+											<div class="col-lg-5 col-5">
+												<picture>
+													<img class="img-fluid img100" src="media/imgAll/bg/1696573668.Phot - 2023-10-06T122652.790.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+												</picture>
+											</div>
+											<div class="col-lg-7 col-7">
+												<div class="desc">
+													<h2 class="list-title">
+														স্বাগতিক ভারতের বিপক্ষে প্রথম ম্যাচে ব্যাটিং-বোলিং উভয় ডিপার্টমেন্টে বিধ্বস্ত হয়েছিল
+													</h2>
+												</div>
+											</div>
+										</div>
+									</a>
+								</div>
+
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="international-area">
+							<div class="section-heading">
+								<a href="#">
+									<h3 class="Title">ধর্ম<i class="fa-solid fa-angles-right"></i> </h3>
+								</a>
+							</div>
+							<div class="national-lead-news">
+								<div class="main-news-list">
+									<a href="#">
+										<picture>
+											<img class="img-fluid img100" src="media/imgAll/bg/du-1-20231012121521.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+										</picture>
+										<div class="desc">
+											<h2 class="lead-news-list-title">
+												নিয়োগ দেবে ঢাকা বিশ্ববিদ্যালয়, থাকছে না বয়সসীমা
+											</h2>
+										</div>
+									</a>
+								</div>
+								<div class="lead-news-list">
+									<a href="#">
+										<div class="row">
+											<div class="col-lg-5 col-5">
+												<picture>
+													<img class="img-fluid img100" src="media/imgAll/bg/1-20231005020240.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+												</picture>
+											</div>
+											<div class="col-lg-7 col-7">
+												<div class="desc">
+													<h2 class="list-title">
+														ঢাকা বিশ্ববিদ্যালয়ের (ঢাবি) সংস্কৃত বিভাগে ‘প্রভাষক’ পদে জনবল নিয়োগ দেওয়া হবে।
+													</h2>
+												</div>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="lead-news-list">
+									<a href="#">
+										<div class="row">
+											<div class="col-lg-5 col-5">
+												<picture>
+													<img class="img-fluid img100" src="media/imgAll/bg/1695367150.96.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+												</picture>
+											</div>
+											<div class="col-lg-7 col-7">
+												<div class="desc">
+													<h2 class="list-title">
+														রেজিস্ট্রার, ঢাকা বিশ্ববিদ্যালয় এর অনুকূলে পে-অর্ডার/ব্যাংক ড্রাফটের মাধ্যমে ৭৫০ টাকা পাঠাতে হবে
+													</h2>
+												</div>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="lead-news-list">
+									<a href="#">
+										<div class="row">
+											<div class="col-lg-5 col-5">
+												<picture>
+													<img class="img-fluid img100" src="media/imgAll/bg/news-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+												</picture>
+											</div>
+											<div class="col-lg-7 col-7">
+												<div class="desc">
+													<h2 class="list-title">
+														বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
+													</h2>
+												</div>
+											</div>
+										</div>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="law-area">
+							<div class="section-heading">
+								<a href="#">
+									<h3 class="Title">স্বাস্থ্য <i class="fa-solid fa-angles-right"></i></h3>
+								</a>
+							</div>
+							<div class="national-lead-news">
+								<div class="main-news-list">
+									<a href="#">
+										<picture>
+											<img class="img-fluid img100" src="media/imgAll/bg/hijeck-20231011003006.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+										</picture>
+										<div class="desc">
+											<h2 class="lead-news-list-title">
+												চট্টগ্রাম মহানগরীর বিভিন্ন এলাকায় ছিনতাইয়ের ঘটনায় দুই ভাই-বোনকে গ্রেফতার করেছে পুলিশ
+											</h2>
+										</div>
+									</a>
+								</div>
+								<div class="lead-news-list">
+									<a href="#">
+										<div class="row">
+											<div class="col-lg-5 col-5">
+												<picture>
+													<img class="img-fluid img100" src="media/imgAll/bg/news-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+												</picture>
+											</div>
+											<div class="col-lg-7 col-7">
+												<div class="desc">
+													<h2 class="list-title">
+														তারা হলেন- ব্রাহ্মণবাড়িয়ার নবীনগর থানার বিটঘর ইউনিয়নের মৃত ।
+													</h2>
+												</div>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="lead-news-list">
+									<a href="#">
+										<div class="row">
+											<div class="col-lg-5 col-5">
+												<picture>
+													<img class="img-fluid img100" src="media/imgAll/bg/1696580553.IMG-20231005-WA0012.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+												</picture>
+											</div>
+											<div class="col-lg-7 col-7">
+												<div class="desc">
+													<h2 class="list-title">
+														শামসুল হকের ছেলে মো. আলাউদ্দীন (২৩) ও আলাউদ্দিনের বোন জাহেদা বেগম (৩৫)
+													</h2>
+												</div>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="lead-news-list">
+									<a href="#">
+										<div class="row">
+											<div class="col-lg-5 col-5">
+												<picture>
+													<img class="img-fluid img100" src="media/imgAll/bg/1695367150.96.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+												</picture>
+											</div>
+											<div class="col-lg-7 col-7">
+												<div class="desc">
+													<h2 class="list-title">
+														বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
+													</h2>
+												</div>
+											</div>
+										</div>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+				<!-- বিনোদন-->
 		<section class="menu-section-4">
 			<div class="container">
 				<div class="sport-section">
@@ -1186,709 +1720,6 @@
 				</div>
 			</div>
 		</section>
-		<!--সারাদেশ+অর্থনীতি-ব্যবসা+খেলা -->
-		<section class="menu-section-5">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-4">
-						<div class="national-area">
-							<div class="section-heading">
-								<a href="#">
-									<h3 class="Title">সারাদেশ <i class="fa-solid fa-angles-right"></i></h3>
-								</a>
-							</div>
-							<div class="national-lead-news">
-								<div class="main-news-list">
-									<a href="#">
-										<picture>
-											<img class="img-fluid img100" src="media/imgAll/bg/aus-sa-preview-20231012114032.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-										</picture>
-										<div class="desc">
-											<h2 class="lead-news-list-title">
-												হাইভোল্টেজ ম্যাচের জন্য প্রস্তুত অস্ট্রেলিয়া-দক্ষিণ আফ্রিকা
-											</h2>
-										</div>
-									</a>
-								</div>
-								<div class="lead-news-list">
-									<a href="#">
-										<div class="row">
-											<div class="col-lg-5 col-5">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/1650281923.mosque_5.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-												</picture>
-											</div>
-											<div class="col-lg-7 col-7">
-												<div class="desc">
-													<h2 class="list-title">
-														বিশ্বকাপের আরও একটা হাইভোল্টেজ ম্যাচে আজ মুখোমুখি হচ্ছে অস্ট্রেলিয়া ও দক্ষিণ আফ্রিকা
-													</h2>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								<div class="lead-news-list">
-									<a href="#">
-										<div class="row">
-											<div class="col-lg-5 col-5">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/1695865537.Phot - 2023-09-28T074530.271.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-												</picture>
-											</div>
-											<div class="col-lg-7 col-7">
-												<div class="desc">
-													<h2 class="list-title">
-														কঠিন এক পরিস্থিতিতে দক্ষিণ আফ্রিকার বিপক্ষে মাঠে নামছে পাঁচবারের বিশ্ব চ্যাম্পিয়ন অস্ট্রেলিয়া
-													</h2>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								<div class="lead-news-list">
-									<a href="#">
-										<div class="row">
-											<div class="col-lg-5 col-5">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/1696573668.Phot - 2023-10-06T122652.790.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-												</picture>
-											</div>
-											<div class="col-lg-7 col-7">
-												<div class="desc">
-													<h2 class="list-title">
-														স্বাগতিক ভারতের বিপক্ষে প্রথম ম্যাচে ব্যাটিং-বোলিং উভয় ডিপার্টমেন্টে বিধ্বস্ত হয়েছিল
-													</h2>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4">
-						<div class="international-area">
-							<div class="section-heading">
-								<a href="#">
-									<h3 class="Title">অর্থনীতি-ব্যবসা<i class="fa-solid fa-angles-right"></i> </h3>
-								</a>
-							</div>
-							<div class="national-lead-news">
-								<div class="main-news-list">
-									<a href="#">
-										<picture>
-											<img class="img-fluid img100" src="media/imgAll/bg/du-1-20231012121521.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-										</picture>
-										<div class="desc">
-											<h2 class="lead-news-list-title">
-												নিয়োগ দেবে ঢাকা বিশ্ববিদ্যালয়, থাকছে না বয়সসীমা
-											</h2>
-										</div>
-									</a>
-								</div>
-								<div class="lead-news-list">
-									<a href="#">
-										<div class="row">
-											<div class="col-lg-5 col-5">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/1-20231005020240.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-												</picture>
-											</div>
-											<div class="col-lg-7 col-7">
-												<div class="desc">
-													<h2 class="list-title">
-														ঢাকা বিশ্ববিদ্যালয়ের (ঢাবি) সংস্কৃত বিভাগে ‘প্রভাষক’ পদে জনবল নিয়োগ দেওয়া হবে।
-													</h2>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								<div class="lead-news-list">
-									<a href="#">
-										<div class="row">
-											<div class="col-lg-5 col-5">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/1695367150.96.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-												</picture>
-											</div>
-											<div class="col-lg-7 col-7">
-												<div class="desc">
-													<h2 class="list-title">
-														রেজিস্ট্রার, ঢাকা বিশ্ববিদ্যালয় এর অনুকূলে পে-অর্ডার/ব্যাংক ড্রাফটের মাধ্যমে ৭৫০ টাকা পাঠাতে হবে
-													</h2>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								<div class="lead-news-list">
-									<a href="#">
-										<div class="row">
-											<div class="col-lg-5 col-5">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/news-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-												</picture>
-											</div>
-											<div class="col-lg-7 col-7">
-												<div class="desc">
-													<h2 class="list-title">
-														বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
-													</h2>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4">
-						<div class="law-area">
-							<div class="section-heading">
-								<a href="#">
-									<h3 class="Title">খেলা <i class="fa-solid fa-angles-right"></i></h3>
-								</a>
-							</div>
-							<div class="national-lead-news">
-								<div class="main-news-list">
-									<a href="#">
-										<picture>
-											<img class="img-fluid img100" src="media/imgAll/bg/hijeck-20231011003006.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-										</picture>
-										<div class="desc">
-											<h2 class="lead-news-list-title">
-												চট্টগ্রাম মহানগরীর বিভিন্ন এলাকায় ছিনতাইয়ের ঘটনায় দুই ভাই-বোনকে গ্রেফতার করেছে পুলিশ
-											</h2>
-										</div>
-									</a>
-								</div>
-								<div class="lead-news-list">
-									<a href="#">
-										<div class="row">
-											<div class="col-lg-5 col-5">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/news-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-												</picture>
-											</div>
-											<div class="col-lg-7 col-7">
-												<div class="desc">
-													<h2 class="list-title">
-														তারা হলেন- ব্রাহ্মণবাড়িয়ার নবীনগর থানার বিটঘর ইউনিয়নের মৃত ।
-													</h2>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								<div class="lead-news-list">
-									<a href="#">
-										<div class="row">
-											<div class="col-lg-5 col-5">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/1696580553.IMG-20231005-WA0012.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-												</picture>
-											</div>
-											<div class="col-lg-7 col-7">
-												<div class="desc">
-													<h2 class="list-title">
-														শামসুল হকের ছেলে মো. আলাউদ্দীন (২৩) ও আলাউদ্দিনের বোন জাহেদা বেগম (৩৫)
-													</h2>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								<div class="lead-news-list">
-									<a href="#">
-										<div class="row">
-											<div class="col-lg-5 col-5">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/1695367150.96.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-												</picture>
-											</div>
-											<div class="col-lg-7 col-7">
-												<div class="desc">
-													<h2 class="list-title">
-														বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
-													</h2>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- স্বাস্থ্য+শিক্ষা  -->
-		<section class="menu-section-6">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-8">
-						<div class="health-section">
-							<div class="section-heading">
-								<a href="#">
-									<h3 class="Title">স্বাস্থ্য <i class="fa-solid fa-angles-right"></i></h3>
-								</a>
-							</div>
-						</div>
-						<div class="health-area">
-							<div class="row">
-								<div class="col-lg-6">
-									<div class="national-lead-news">
-										<div class="national-media">
-											<picture>
-												<img class="img-fluid img100" src="media/imgAll/bg/lead-news-3.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-											</picture>
-										</div>
-										<div class="desc">
-											<a href="#">
-												<h2 class="national-title">
-													ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩
-												</h2>
-											</a>
-											<p class="national-text">নিখোঁজের ১৮ ঘণ্টা পর মা ও দুই ছেলের মরদেহ উদ্ধার |
-												ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩.বৃহস্পতিবার থেকে ৩ দিনের ছুটিতে দেশ
-												বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা ওপেনার তামিম ইকবাল। মঙ্গলবার (২৬ সেপ্টেম্বর) তাকে ছাড়াই ১৫ সদস্যর দল ঘোষণা করেছে
-											</p>
-										</div>
-									</div>
-								</div>
-								<div class="col-lg-6">
-									<div class="lead-news-list">
-										<a href="#">
-											<div class="row">
-												<div class="col-lg-5 col-5">
-													<picture>
-														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-2.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-													</picture>
-												</div>
-												<div class="col-lg-7 col-7">
-													<div class="desc">
-														<h2 class="list-title">
-															বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
-														</h2>
-													</div>
-												</div>
-											</div>
-										</a>
-									</div>
-									<div class="lead-news-list">
-										<a href="#">
-											<div class="row">
-												<div class="col-lg-5 col-5">
-													<picture>
-														<img class="img-fluid img100" src="media/imgAll/bg/lead-list4.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-													</picture>
-												</div>
-												<div class="col-lg-7 col-7">
-													<div class="desc">
-														<h2 class="list-title">
-															ঝুঁকিপূর্ণ ভবনসহ চতুর্মুখী সমস্যায় জর্জরিত ঢাবির কুয়েত মৈত্রী হল
-														</h2>
-													</div>
-												</div>
-											</div>
-										</a>
-									</div>
-									<div class="lead-news-list">
-										<a href="#">
-											<div class="row">
-												<div class="col-lg-5 col-5">
-													<picture>
-														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.webp" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-													</picture>
-												</div>
-												<div class="col-lg-7 col-7">
-													<div class="desc">
-														<h2 class="list-title">
-															বুধবার (২৭ সেপ্টেম্বর) নৌপরিবহন মন্ত্রণালয়ের সিনিয়র তথ্য অফিসার
-														</h2>
-													</div>
-												</div>
-											</div>
-										</a>
-									</div>
-									<div class="lead-news-list">
-										<a href="#">
-											<div class="row">
-												<div class="col-lg-5 col-5">
-													<picture>
-														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-3.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-													</picture>
-												</div>
-												<div class="col-lg-7 col-7">
-													<div class="desc">
-														<h2 class="list-title">
-															এতে নৌপরিবহন প্রতিমন্ত্রী খালিদ মাহমুদ চৌধুরী এমপি প্রধান অতিথি হিসেবে উপস্থিত থাকবেন
-														</h2>
-													</div>
-												</div>
-											</div>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4">
-						<div class="education-area">
-							<div class="national-area">
-								<div class="section-heading">
-									<a href="#">
-										<h3 class="Title">শিক্ষা <i class="fa-solid fa-angles-right"></i></h3>
-									</a>
-								</div>
-								<div class="national-lead-news">
-									<div class="main-news-list">
-										<a href="#">
-											<picture>
-												<img class="img-fluid img100" src="media/imgAll/bg/advertisement-5.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-											</picture>
-											<div class="desc">
-												<h2 class="lead-news-list-title">
-													সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
-												</h2>
-											</div>
-										</a>
-									</div>
-									<div class="lead-news-list">
-										<a href="#">
-											<div class="row">
-												<div class="col-lg-5 col-5">
-													<picture>
-														<img class="img-fluid img100" src="media/imgAll/bg/news-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-													</picture>
-												</div>
-												<div class="col-lg-7 col-7">
-													<div class="desc">
-														<h2 class="list-title">
-															বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
-														</h2>
-													</div>
-												</div>
-											</div>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-		</section>
-		<!-- আইন ও আদালত+ধর্ম+তথ্য ও প্রযুক্তি -->
-		<section class="menu-section-7">
-			<div class="container">
-				<div class="parborto-chottogram-area">
-					<div class="row">
-						<!--আইন ও আদালত  -->
-						<div class="col-lg-4">
-							<div class="bandorban-heading">
-								<div class="section-heading">
-									<a href="#">
-										<h3 class="Title">আইন ও আদালত<i class="fa-solid fa-angles-right"></i></h3>
-									</a>
-								</div>
-								<div class="main-news-list">
-									<a href="#">
-										<picture>
-											<img class="img-fluid img100" src="media/imgAll/bg/planning-minister-20231010174227.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-										</picture>
-										<div class="desc">
-											<h2 class="lead-news-list-title">
-												মঙ্গলবার (১০ অক্টোবর) সকালে রাজধানীর গুলশানে
-											</h2>
-										</div>
-									</a>
-								</div>
-								<div class="category-news-list">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-												<p>মন্ত্রী আরও বলেন, ভূমির মালিকানা নিয়ে হাজার বছর ধরে যে অন্যায় ঘটছে তা এখনো বন্ধ করা যায়নি</p>
-											</a></li>
-									</ul>
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-												<p>ভূমি অধিকার সংক্রান্ত আঞ্চলিক সেমিনারে বক্তারা বলেন</p>
-											</a></li>
-									</ul>
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-												<p>ভূমিতে ন্যায্য মালিকানা প্রতিষ্ঠায় কোনো সরকারই কার্যকর উদ্যোগ নেয়নি</p>
-											</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-
-						<!-- Hindu-area -->
-						<div class="col-lg-4">
-							<div class="bandorban-heading">
-								<div class="section-heading">
-									<a href="#">
-										<h3 class="Title">ধর্ম<i class="fa-solid fa-angles-right"></i></h3>
-									</a>
-								</div>
-								<div class="main-news-list">
-									<a href="#">
-										<picture>
-											<img class="img-fluid img100" src="media/imgAll/bg/1695367150.96.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-										</picture>
-										<div class="desc">
-											<h2 class="lead-news-list-title">
-												জলবায়ু পরিবর্তনের কারণে ভূমির মালিকানা নিয়ে আরও সংকট তৈরি হচ্ছে
-											</h2>
-										</div>
-									</a>
-								</div>
-								<div class="category-news-list">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-												<p>বাংলাদেশ পুলিশ জনগণের হৃদয়ে স্থান করে নিয়েছে বলে মন্তব্য </p>
-											</a></li>
-									</ul>
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-												<p>করেছেন পুলিশের মহাপরিদর্শক (আইজিপি) চৌধুরী আবদুল্লাহ আল-মামুন</p>
-											</a></li>
-									</ul>
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-												<p>তিন মাস পর অনুষ্ঠিত হতে যাচ্ছে দ্বাদশ জাতীয় সংসদ নির্বাচন</p>
-											</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<!-- Christan-area -->
-						<div class="col-lg-4">
-							<div class="bandorban-heading">
-								<div class="section-heading">
-									<a href="#">
-										<h3 class="Title">তথ্য ও প্রযুক্তি<i class="fa-solid fa-angles-right"></i></h3>
-									</a>
-								</div>
-								<div class="main-news-list">
-									<a href="#">
-										<picture>
-											<img class="img-fluid img100" src="media/imgAll/bg/1650281923.mosque_5.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-										</picture>
-										<div class="desc">
-											<h2 class="lead-news-list-title">
-												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
-											</h2>
-										</div>
-									</a>
-								</div>
-								<div class="category-news-list">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-												<p>নানা নাটকীয়তার পর সাবেক ওয়ানডে অধিনায়ক</p>
-											</a></li>
-									</ul>
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-												<p>টাইগার ওপেনারের আকস্মিক দল থেকে বাদ পড়ায় নানা প্রশ্নের সৃষ্টি হয়েছে</p>
-											</a></li>
-									</ul>
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-												<p>তিন মাস পর অনুষ্ঠিত হতে যাচ্ছে দ্বাদশ জাতীয় সংসদ নির্বাচন</p>
-											</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- advertisement-section -->
-		<div class="advertise-section pt-3">
-			<div class="container">
-				<picture>
-					<img class="img-fluid img100" src="media/imgAll/bg/advertisement.jpeg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
-				</picture>
-			</div>
-		</div>
-		<!-- অর্থনীতি- ব্যবসা +আইন-বিচার  -->
-		<section class="menu-section-8">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-8">
-						<div class="orthoniti-section">
-							<div class="section-heading">
-								<a href="#">
-									<h3 class="Title">অর্থনীতি- ব্যবসা <i class="fa-solid fa-angles-right"></i></h3>
-								</a>
-							</div>
-						</div>
-						<div class="orthoniti-area">
-							<div class="row">
-								<div class="col-lg-6">
-									<div class="national-lead-news">
-										<div class="national-media">
-											<picture>
-												<img class="img-fluid img100" src="media/imgAll/bg/lead-news-3.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-											</picture>
-										</div>
-										<div class="desc">
-											<a href="#">
-												<h2 class="national-title">
-													ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩
-												</h2>
-											</a>
-											<p class="national-text">নিখোঁজের ১৮ ঘণ্টা পর মা ও দুই ছেলের মরদেহ উদ্ধার |
-												ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩.বৃহস্পতিবার থেকে ৩ দিনের ছুটিতে দেশ
-												বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা ওপেনার তামিম ইকবাল। মঙ্গলবার (২৬ সেপ্টেম্বর) তাকে ছাড়াই ১৫ সদস্যর দল ঘোষণা করেছে
-											</p>
-										</div>
-									</div>
-								</div>
-								<div class="col-lg-6">
-									<div class="lead-news-list">
-										<a href="#">
-											<div class="row">
-
-												<div class="col-lg-7 col-7">
-													<div class="desc">
-														<h2 class="list-title">
-															বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
-														</h2>
-													</div>
-												</div>
-												<div class="col-lg-5 col-5">
-													<picture>
-														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-2.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-													</picture>
-												</div>
-											</div>
-										</a>
-									</div>
-									<div class="lead-news-list">
-										<a href="#">
-											<div class="row">
-
-												<div class="col-lg-7 col-7">
-													<div class="desc">
-														<h2 class="list-title">
-															ঝুঁকিপূর্ণ ভবনসহ চতুর্মুখী সমস্যায় জর্জরিত ঢাবির কুয়েত মৈত্রী হল
-														</h2>
-													</div>
-												</div>
-												<div class="col-lg-5 col-5">
-													<picture>
-														<img class="img-fluid img100" src="media/imgAll/bg/lead-list4.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-													</picture>
-												</div>
-											</div>
-										</a>
-									</div>
-									<div class="lead-news-list">
-										<a href="#">
-											<div class="row">
-
-												<div class="col-lg-7 col-7">
-													<div class="desc">
-														<h2 class="list-title">
-															বুধবার (২৭ সেপ্টেম্বর) নৌপরিবহন মন্ত্রণালয়ের সিনিয়র তথ্য অফিসার
-														</h2>
-													</div>
-												</div>
-												<div class="col-lg-5 col-5">
-													<picture>
-														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.webp" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-													</picture>
-												</div>
-											</div>
-										</a>
-									</div>
-									<div class="lead-news-list">
-										<a href="#">
-											<div class="row">
-
-												<div class="col-lg-7 col-7">
-													<div class="desc">
-														<h2 class="list-title">
-															এতে নৌপরিবহন প্রতিমন্ত্রী খালিদ মাহমুদ চৌধুরী এমপি প্রধান অতিথি হিসেবে উপস্থিত থাকবেন
-														</h2>
-													</div>
-												</div>
-												<div class="col-lg-5 col-5">
-													<picture>
-														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-3.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-													</picture>
-												</div>
-											</div>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4">
-						<div class=".orthoniti-area">
-							<div class="national-area">
-								<div class="section-heading">
-									<a href="#">
-										<h3 class="Title">আইন-বিচার <i class="fa-solid fa-angles-right"></i></h3>
-									</a>
-								</div>
-								<div class="national-lead-news">
-									<div class="main-news-list">
-										<a href="#">
-											<picture>
-												<img class="img-fluid img100" src="media/imgAll/bg/advertisement-5.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-											</picture>
-											<div class="desc">
-												<h2 class="lead-news-list-title">
-													অন্তঃসত্ত্বা ছাত্রীর হলে থাকা ও বিশ্ববিদ্যালয়ের বাসে ‘লেডিস সিট’
-												</h2>
-											</div>
-										</a>
-									</div>
-									<div class="photo-gallery-list-news">
-										<div class="row">
-
-											<div class="col-lg-9 col-8">
-												<div class="desc">
-													<h2 class="list-title">
-														বিয়ের পর পড়াশোনা চালিয়ে যাওয়া কি অপরাধ? বিয়ের পর অন্তঃসত্ত্বা হওয়াও কি অপরাধ? নাকি এটা আইন বহির্ভূত কোনো কাজ? যদি অপরাধ না হয়, তাহলে বিবাহিত ছাত্রীদের হলে থাকা নিষিদ্ধ হবে কেন? সন্তানধারণ ও বিয়ে একজন নারীর প্রজনন অধিকার। এই অধিকার নারীর এমন শক্তি, যে শক্তি দিয়ে জগৎ জয় করা যায়। বিয়ে হলে একজন নারী মা হতেই পারেন। মাতৃত্ব কোনো লুকিয়ে রাখার বিষয় নয়। মা এবং তার সন্তান সমাজ ও রাষ্ট্রের সম্পত্তি।
-
-
-
-													</h2>
-												</div>
-											</div>
-											<div class="col-lg-3 col-4">
-												<picture>
-													<img class="img-fluid img100" src="media/imgAll/bg/profile.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
-												</picture>
-											</div>
-										</div>
-
-
-
-									</div>
-
-
-
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-		</section>
 		<!-- লাইফস্টাইল -->
 		<section class="menu-section-9">
 			<div class="container">
@@ -1995,7 +1826,7 @@
 						<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
 							<div class="carousel-inner">
 								<div class="carousel-item active">
-								<div class="entertainment-lead-area">
+									<div class="entertainment-lead-area">
 										<div class="thumbnail">
 											<a href="/">
 												<div class="photo-section">
@@ -2009,21 +1840,21 @@
 																	<i class="fas fa-images gallary-icon"></i>
 																</span>
 															</div>
-															
+
 														</a>
 													</div>
 													<div class="Desc">
-													<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
+														<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
+													</div>
 												</div>
-												</div>
-												
-												
+
+
 											</a>
 										</div>
 									</div>
 								</div>
 								<div class="carousel-item">
-								<div class="entertainment-lead-area">
+									<div class="entertainment-lead-area">
 										<div class="thumbnail">
 											<a href="/">
 												<div class="photo-section">
@@ -2037,15 +1868,15 @@
 																	<i class="fas fa-images gallary-icon"></i>
 																</span>
 															</div>
-															
+
 														</a>
 													</div>
 													<div class="Desc">
-													<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
+														<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
+													</div>
 												</div>
-												</div>
-												
-												
+
+
 											</a>
 										</div>
 									</div>
@@ -2065,15 +1896,15 @@
 																	<i class="fas fa-images gallary-icon"></i>
 																</span>
 															</div>
-															
+
 														</a>
 													</div>
 													<div class="Desc">
-													<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
+														<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
+													</div>
 												</div>
-												</div>
-												
-												
+
+
 											</a>
 										</div>
 									</div>
