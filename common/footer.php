@@ -16,14 +16,14 @@
         <div class="foot-area-1">
             <div class="container">
                 <div class="row">
-                <div class="col-lg-5 d-flex justify-content-center align-items-center">
+                <div class="col-lg-5 col-6 d-flex justify-content-center align-items-center">
                         <div class="foot-img">
                             <a class="foot-brand-logo-top " title="Desh News 24" href="#">
                                 <img class="img-fluid" src="media/common/D-news-Logo.png" alt="Desh News 24">
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-7 d-flex justify-content-end">
+                    <div class="col-lg-7 col-6 d-flex justify-content-end">
                         <div class="area-details">
                             <h2>সম্পাদক : হাসান মাহমুদ</h2>
                             

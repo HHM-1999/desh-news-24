@@ -67,7 +67,7 @@
 						<div class="lead-news-area">
 							<a href="/">
 								<div class="row">
-									<div class="col-lg-5">
+									<div class="col-lg-5 order order-2">
 										<div class="Desc">
 											<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
 											<p class="quote">আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
@@ -218,15 +218,16 @@
 										</a>
 									</div>
 								</div>
-
 							</div>
 
 						</div>
 						<!-- advertisement-section -->
+						<div class="advertise-Mobile-hide">
 						<div class="advertise-section">
 							<picture>
 								<img class="img-fluid img100" src="media/imgAll/bg/advertisement.jpeg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
 							</picture>
+						</div>
 						</div>
 					</div>
 					<div class="col-lg-3">
@@ -481,7 +482,7 @@
 
 
 		<!-- ========জাতীয় +রাজনীতি +আন্তর্জাতিক========= -->
-		<section class="menu-section-1">
+		<section class="jatio-rajniti-international-section">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4">
@@ -724,7 +725,7 @@
 		</section>
 
 		<!-- =========সারাদেশ========-->
-		<section class="menu-section-2">
+		<section class="saradesh-section">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
@@ -877,7 +878,7 @@
 			</div>
 		</section>
 		<!-- চট্টগ্রাম+ অর্থনীতি-ব্যবসা -->
-		<section class="menu-section-6">
+		<section class="chottogram-business-section">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8">
@@ -1047,7 +1048,7 @@
 			</div>
 		</div>
 		<!-- বান্দরবান+রাঙ্গামাটি+খাগড়াছড়ি -->
-		<section class="menu-section-3">
+		<section class="bandorban-khagrachori-rangamati-section">
 			<div class="container">
 				<!-- Parborto-chottogram -->
 				<div class="parborto-chottogram-area">
@@ -1214,7 +1215,7 @@
 			</div>
 		</section>
 		<!-- আইন-বিচার+শিক্ষা+তথ্য ও প্রযুক্তি -->
-		<section class="menu-section-7">
+		<section class="law-health-techno-section">
 			<div class="container">
 				<div class="parborto-chottogram-area">
 					<div class="row">
@@ -1350,7 +1351,7 @@
 			</div>
 		</div>
 		<!--খেলা+ধর্ম+স্বাস্থ্য -->
-		<section class="menu-section-5">
+		<section class="sport-religion-health-Section">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4">
@@ -1589,7 +1590,7 @@
 			</div>
 		</section>
 				<!-- বিনোদন-->
-		<section class="menu-section-4">
+		<section class="entertainment-section">
 			<div class="container">
 				<div class="sport-section">
 					<div class="row">
@@ -1721,7 +1722,7 @@
 			</div>
 		</section>
 		<!-- লাইফস্টাইল -->
-		<section class="menu-section-9">
+		<section class="lifestyle-section">
 			<div class="container">
 				<div class="lifestyle-section">
 					<div class="section-heading">
@@ -1747,7 +1748,7 @@
 						</div>
 						<div class="col-lg-6">
 							<div class="row">
-								<div class="col-lg-6">
+								<div class="col-lg-6 col-6">
 									<div class="main-news-list">
 										<a href="#">
 											<picture>
@@ -1761,7 +1762,7 @@
 										</a>
 									</div>
 								</div>
-								<div class="col-lg-6">
+								<div class="col-lg-6 col-6">
 									<div class="main-news-list">
 										<a href="#">
 											<picture>
@@ -1775,7 +1776,7 @@
 										</a>
 									</div>
 								</div>
-								<div class="col-lg-6">
+								<div class="col-lg-6 col-6">
 									<div class="main-news-list">
 										<a href="#">
 											<picture>
@@ -1789,7 +1790,7 @@
 										</a>
 									</div>
 								</div>
-								<div class="col-lg-6">
+								<div class="col-lg-6 col-6">
 									<div class="main-news-list">
 										<a href="#">
 											<picture>
@@ -1810,7 +1811,7 @@
 			</div>
 		</section>
 		<!-- photo-gallary -->
-		<section class="photo-gallary">
+		<section class="photo-gallary-section">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
@@ -1923,7 +1924,7 @@
 					<div class="col-lg-4">
 						<div class="galary-area">
 							<div class="row">
-								<div class="col-lg-6">
+								<div class="col-lg-6 col-6 ">
 									<div class="photo-section">
 										<div class="DVideoListItem align-self-stretch">
 											<a href="/">
@@ -1943,7 +1944,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-6">
+								<div class="col-lg-6 col-6">
 									<div class="photo-section">
 										<div class="DVideoListItem align-self-stretch">
 											<a href="/">
@@ -1963,7 +1964,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-6">
+								<div class="col-lg-6 col-6">
 									<div class="photo-section">
 										<div class="DVideoListItem align-self-stretch">
 											<a href="/">
@@ -1983,7 +1984,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-6">
+								<div class="col-lg-6 col-6">
 									<div class="photo-section">
 										<div class="DVideoListItem align-self-stretch">
 											<a href="/">
@@ -2003,7 +2004,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-6">
+								<div class="col-lg-6 col-6">
 									<div class="photo-section">
 										<div class="DVideoListItem align-self-stretch">
 											<a href="/">
@@ -2023,7 +2024,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-6">
+								<div class="col-lg-6 col-6">
 									<div class="photo-section">
 										<div class="DVideoListItem align-self-stretch">
 											<a href="/">
@@ -2044,17 +2045,11 @@
 									</div>
 								</div>
 							</div>
-
-
 						</div>
-
-
-
 					</div>
 				</div>
 			</div>
 		</section>
-
 
 	</main>
 
