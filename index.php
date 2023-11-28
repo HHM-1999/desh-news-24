@@ -63,9 +63,8 @@
 				<div class="row">
 					<div class="col-lg-9">
 						<!-- ====main-news======= -->
-
 						<div class="lead-news-area">
-							<a href="/">
+							<a href="#">
 								<div class="row">
 									<div class="col-lg-5 order order-2">
 										<div class="Desc">
@@ -81,11 +80,9 @@
 											<img class="img-fluid img100" src="media/imgAll/bg/lead-news-1.jpg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
 										</picture>
 									</div>
-
 								</div>
 							</a>
 						</div>
-
 						<!-- main-lead-news-list -->
 						<!-- main-news-list -->
 						<div class="lead-news-list-area">
@@ -130,7 +127,6 @@
 													প্রতীকী খাঁচায় বন্দি হয়ে পাখির মুক্ত বিচরণের দাবি
 												</h2>
 											</div>
-
 										</a>
 									</div>
 								</div>
@@ -219,15 +215,14 @@
 									</div>
 								</div>
 							</div>
-
 						</div>
 						<!-- advertisement-section -->
 						<div class="advertise-Mobile-hide">
-						<div class="advertise-section">
-							<picture>
-								<img class="img-fluid img100" src="media/imgAll/bg/advertisement.jpeg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
-							</picture>
-						</div>
+							<div class="advertise-section">
+								<picture>
+									<img class="img-fluid img100" src="media/imgAll/bg/advertisement.jpeg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
+								</picture>
+							</div>
 						</div>
 					</div>
 					<div class="col-lg-3">
@@ -237,250 +232,201 @@
 								<img class="img-fluid img100" src="media/imgAll/bg/advertisement-2.gif" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
 							</picture>
 						</div>
-
-					
-
-						<!-- sorbosesh-section -->
-						<div class="DLPSTab2">
+						<section class="DLPSTab2 mt-4">
 							<div class="panel panel-default">
-								<div>
+								<div class="panel-heading">
 									<ul class="nav nav-tabs" role="tablist">
 										<li class="nav-item">
-											<a class="nav-link active" data-bs-toggle="tab" href="#sorbosesh-tab" role="tab" aria-selected="true">সর্বশেষ</a>
+											<a class="nav-link active" data-bs-toggle="tab" href="#tabs-1" role="tab" aria-selected="true">সর্বশেষ</a>
 										</li>
 										<li class="nav-item">
-											<a class="nav-link" data-bs-toggle="tab" href="#sorbadhik-tab" role="tab" aria-selected="false">সর্বাধিক</a>
+											<a class="nav-link" data-bs-toggle="tab" href="#tabs-2" role="tab" aria-selected="false">সর্বাধিক পঠিত</a>
 										</li>
 									</ul>
 								</div>
 								<div class="panel-body PanelHeight">
 									<div class="tab-content">
-										<div class="tab-pane active" id="sorbosesh-tab" role="tabpanel1">
-
-											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 369px; overflow: auto;" data-mcs-theme="dark" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0">
+										<div class="tab-pane active" id="tabs-1" role="tabpanel">
+											<div class="DLatestNews longEnough mCustomScrollbar" data-mcs-theme="dark">
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>১</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>১</span></div>
+															<p>কেএনএফ’র সাথে প্রথম বৈঠকে শান্তির আলোচনাকেএনএফ’র সাথে প্রথম বৈঠকে শান্তির আলোচনাকেএনএফ’র সাথে প্রথম বৈঠকে শান্তির আলোচনা</p>
+														</div>
+													</a>
+												</div>
+												<div class="DLatestNewsList">
+													<a href="https://www.emythmaker.com/project/DevelopedProject/deshNews24/national/news/1635">
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>২</span></div>
+															<p>ইসি সচিব ছাড়া কেউ গণমাধ্যমে কথা বলবেন না, আদেশ জারি</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>২</span>
-														<h3 class="Title">
-
-															প্রতিযোগতার তৃতীয় বিভাগে
-															তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।
-														</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>৩</span></div>
+															<p>ওমরাহ পালন করলেন প্রধানমন্ত্রী</p>
+														</div>
+													</a>
+												</div>
+												<div class="DLatestNewsList">
+													<a href="https://www.emythmaker.com/project/DevelopedProject/deshNews24/chattogram/news/1633">
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>৪</span></div>
+															<p>বাংলাদেশের নির্বাচন নিয়ে ভারতীয় গণমাধ্যমে যা বলল যুক্তরাষ্ট্র</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>৩</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>৫</span></div>
+															<p>বিদেশি শকুন দেশে আনতে চায় বিএনপি : হাছান মাহমুদ</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>৪</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>৬</span></div>
+															<p>গিলক্রিস্টকে টপকানোর সুযোগ মুশফিকের</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>৫</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তারর</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>৭</span></div>
+															<p>নতুন করে গ্রেপ্তারের পরিকল্পনা সরকারের নেই: ওবায়দুল কাদের</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>৬</span>
-														<h3 class="Title">
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>৮</span></div>
+															<p>সাকিবের খেলা-না খেলা নিয়ে মাথাব্যথা নেই ভারতীয় কোচের</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>৭</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>৯</span></div>
+															<p>রোনালদিনহো এখন ঢাকায়</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>৮</span>
-														<h3 class="Title">
-															প্রতিযোগতার তৃতীয় বিভাগে
-															তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>১০</span></div>
+															<p>বাংলাদেশের বিপক্ষে ভারতের সম্ভাব্য একাদশ</p>
+														</div>
 													</a>
 												</div>
 											</div>
 										</div>
-										<div class="tab-pane" id="sorbadhik-tab" role="tabpanel2">
-
-											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 369px; overflow: auto;" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" data-mcs-theme="dark">
+										<div class="tab-pane" id="tabs-2" role="tabpanel">
+											<div class="DLatestNews longEnough mCustomScrollbar" data-mcs-theme="dark">
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>১</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>১</span></div>
+															<p>রেনাটা’র আয়োজনে ক্যান্সার রোগে মানসিক সহায়তা অনুষ্ঠান</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>২</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>২</span></div>
+															<p>বীরকে স্কুলে ভর্তি করাতে গেলেন শাকিব খান</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>৩</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>৩</span></div>
+															<p>ভেঙে গেল রাজ-পরীর সংসার</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>৪</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>৪</span></div>
+															<p>এডিসি হারুনের সঙ্গে ‘বিয়ে’ নিয়ে মুখ খুললেন সানজিদা</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>৫</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>৫</span></div>
+															<p>বঙ্গবন্ধু শিশু কিশোর মেলার নাটোর জেলা কমিটি ঘোষনা</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>৬</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>৬</span></div>
+															<p>যদি আর কোনোদিন অভিনয় নাও করি, তাহলেও আক্ষেপ থাকবে না</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>৭</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>৭</span></div>
+															<p>‘ওই সাংবাদিক খুব কাছে এসে বসেন আমার’</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>৮</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>৮</span></div>
+															<p>স্ত্রীর মৃত্যুর পরদিন চলে গেলেন সোহানুর রহমান সোহানও</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>৯</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>৯</span></div>
+															<p>দাফনের ৫ দিন পর জীবিত পাওয়া গেল গৃহবধূকে</p>
+														</div>
 													</a>
 												</div>
 												<div class="DLatestNewsList">
 													<a href="#">
-														<span>১০</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
-													</a>
-												</div>
-												<div class="DLatestNewsList">
-													<a href="#">
-														<span>১২</span>
-														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														<div class="d-flex flex-row">
+															<div class="d-flex h-100 align-items-center"><span>১০</span></div>
+															<p>শেষ কর্মদিবসে ছুটি নিলেন ‘দেশকে জাহান্নাম’ বলা বিচারপতি</p>
+														</div>
 													</a>
 												</div>
 											</div>
 										</div>
 									</div>
-									<div class="allnews">
-										<a href="#">সব খবর <i class="fa fa-angle-double-right"></i></a>
-									</div>
 								</div>
 							</div>
+							<div class="allnews"><a href="">সব খবর <i class="fa fa-angle-double-right"></i></a></div>
+						</section>
+						<div class="advertise-section mt-4">
+							<picture>
+								<img class="img-fluid img100" src="media/imgAll/bg/advertisement-2.gif" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
+							</picture>
 						</div>
-							<!-- arkav section -->
-							<div class="datePicker-area">
-							<div class="datepicker-title">
-								<a href="#">আর্কাইভ</a>
-
-							</div>
-							<section class="date_picker_wrapper" id="date_picker_1">
-								<div class="date_picker_header">
-									<button class="date_picker_year"></button>
-									<h3 class="date_picker_month_day"></h3>
-								</div>
-								<div class="date_picker_body">
-									<div class="date_picker_month_navigation">
-										<button class="date_picker_prev_month date_picker_month_nav_btn">
-											<ion-icon name="caret-back-circle-outline"><i class="fas fa-angle-left"></i></ion-icon>
-										</button>
-										<h2 class="date_picker_month_name"></h2>
-										<button class="date_picker_next_month date_picker_month_nav_btn">
-											<ion-icon name="caret-forward-circle-outline"><i class="fas fa-angle-right"></i></ion-icon>
-										</button>
-									</div>
-									<ul class="date_picker_month_days">
-										<li class="week-name">Sun</li>
-										<li class="week-name">Mon</li>
-										<li class="week-name">Tue</li>
-										<li class="week-name">Wed</li>
-										<li class="week-name">Thu</li>
-										<li class="week-name">Fri</li>
-										<li class="week-name">Sat</li>
-									</ul>
-								</div>
-							</section>
-						</div>
-
 					</div>
 				</div>
 		</section>
-
-
 		<!-- ========জাতীয় +রাজনীতি +আন্তর্জাতিক========= -->
 		<section class="jatio-rajniti-international-section">
 			<div class="container">
@@ -559,7 +505,6 @@
 										</div>
 									</a>
 								</div>
-
 							</div>
 						</div>
 					</div>
@@ -578,6 +523,10 @@
 										</picture>
 										<div class="desc">
 											<h2 class="lead-news-list-title">
+												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
 												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
 											</h2>
 										</div>
@@ -655,9 +604,7 @@
 										</picture>
 										<div class="desc">
 											<h2 class="lead-news-list-title">
-
 												হলে গিয়ে মুজিব বায়োপিক দেখার আহ্বান প্রধানমন্ত্রীর
-
 											</h2>
 										</div>
 									</a>
@@ -740,26 +687,100 @@
 				</div>
 				<div class="rajniti-area">
 					<div class="row">
-						<div class="col-lg-9">
+						<div class="col-lg-4">
+							<div class="national-lead-news">
+								<div class="national-media">
+									<picture>
+										<img class="img-fluid img100" src="media/imgAll/bg/lead-news-3.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+									</picture>
+								</div>
+								<div class="desc">
+									<a href="#">
+										<h2 class="national-title">
+											ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩
+										</h2>
+									</a>
+									<p class="national-text">নিখোঁজের ১৮ ঘণ্টা পর মা ও দুই ছেলের মরদেহ উদ্ধার |
+										ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩.বৃহস্পতিবার থেকে ৩ দিনের ছুটিতে দেশ
+										বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা ওপেনার তামিম ইকবাল। মঙ্গলবার (২৬ সেপ্টেম্বর) তাকে ছাড়াই ১৫ সদস্যর দল ঘোষণা করেছে
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-8">
 							<div class="row">
 								<div class="col-lg-6">
-									<div class="national-lead-news">
-										<div class="national-media">
-											<picture>
-												<img class="img-fluid img100" src="media/imgAll/bg/lead-news-3.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-											</picture>
-										</div>
-										<div class="desc">
-											<a href="#">
-												<h2 class="national-title">
-													ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩
-												</h2>
-											</a>
-											<p class="national-text">নিখোঁজের ১৮ ঘণ্টা পর মা ও দুই ছেলের মরদেহ উদ্ধার |
-												ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩.বৃহস্পতিবার থেকে ৩ দিনের ছুটিতে দেশ
-												বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা ওপেনার তামিম ইকবাল। মঙ্গলবার (২৬ সেপ্টেম্বর) তাকে ছাড়াই ১৫ সদস্যর দল ঘোষণা করেছে
-											</p>
-										</div>
+									<div class="lead-news-list">
+										<a href="#">
+											<div class="row">
+												<div class="col-lg-5 col-5 col-md-4">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-2.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+													</picture>
+												</div>
+												<div class="col-lg-7 col-7 col-md-8">
+													<div class="desc">
+														<h2 class="list-title">
+															বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
+														</h2>
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+									<div class="lead-news-list">
+										<a href="#">
+											<div class="row">
+												<div class="col-lg-5 col-5 col-md-4">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-list4.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+													</picture>
+												</div>
+												<div class="col-lg-7 col-7 col-md-8">
+													<div class="desc">
+														<h2 class="list-title">
+															ঝুঁকিপূর্ণ ভবনসহ চতুর্মুখী সমস্যায় জর্জরিত ঢাবির কুয়েত মৈত্রী হল
+														</h2>
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+									<div class="lead-news-list">
+										<a href="#">
+											<div class="row">
+												<div class="col-lg-5 col-5 col-md-4">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.webp" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+													</picture>
+												</div>
+												<div class="col-lg-7 col-7 col-md-8">
+													<div class="desc">
+														<h2 class="list-title">
+															বুধবার (২৭ সেপ্টেম্বর) নৌপরিবহন মন্ত্রণালয়ের সিনিয়র তথ্য অফিসার
+														</h2>
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+									<div class="lead-news-list">
+										<a href="#">
+											<div class="row">
+												<div class="col-lg-5 col-5 col-md-4">
+													<picture>
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-3.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+													</picture>
+												</div>
+												<div class="col-lg-7 col-7 col-md-8">
+													<div class="desc">
+														<h2 class="list-title">
+															এতে নৌপরিবহন প্রতিমন্ত্রী খালিদ মাহমুদ চৌধুরী এমপি প্রধান অতিথি হিসেবে উপস্থিত থাকবেন
+														</h2>
+													</div>
+												</div>
+											</div>
+										</a>
 									</div>
 								</div>
 								<div class="col-lg-6">
@@ -836,40 +857,6 @@
 										</a>
 									</div>
 								</div>
-							</div>
-						</div>
-						<div class="col-lg-3">
-							<div class="DVideoListItem align-self-stretch">
-								<a href="/">
-									<div class="DImgZoomBlock">
-										<picture>
-											<img class="img-fluid img100" src="media/imgAll/bg/lead-news-1.jpg" alt="" title="">
-										</picture>
-										<span class="video-Icon">
-											<i class="fab fa-youtube"></i>
-										</span>
-									</div>
-									<div class="Desc">
-										<h4>দেশ খবর ২৪ ।। সকালের খবর
-										</h4>
-									</div>
-								</a>
-							</div>
-							<div class="DVideoListItem align-self-stretch">
-								<a href="/">
-									<div class="DImgZoomBlock">
-										<picture>
-											<img class="img-fluid img100" src="media/imgAll/bg/lead-list-2.jpg" alt="" title="">
-										</picture>
-										<span class="video-Icon">
-											<i class="fab fa-youtube"></i>
-										</span>
-									</div>
-									<div class="Desc">
-										<h4>দেশ খবর ২৪ ।। সকালের খবর
-										</h4>
-									</div>
-								</a>
 							</div>
 
 						</div>
@@ -1005,6 +992,7 @@
 											<div class="desc">
 												<h2 class="lead-news-list-title">
 													সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+													সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
 												</h2>
 											</div>
 										</a>
@@ -1033,10 +1021,9 @@
 					</div>
 				</div>
 			</div>
-
 		</section>
-				<!--========advertisement ====== -->
-				<div class="advertise-section pt-3">
+		<!--========advertisement ====== -->
+		<div class="advertise-section pt-3">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
@@ -1081,23 +1068,15 @@
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>সরকারি-বেসরকারি ক্লিনিকে অপ্রয়োজনীয় সিজার বন্ধে তৈরি করা নীতিমালার আলোকে প্রয়োজনীয় পদক্ষেপ দ্রুত নিতে নির্দেশ দিয়েছেন হাইকোর্ট।</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>টাইগার ওপেনারের আকস্মিক দল থেকে বাদ পড়ায় নানা প্রশ্নের সৃষ্টি হয়েছে</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>এর ফলে এটি আইন হিসেবে বিবেচিত হবে বলেছেন ব্যারিস্টার রাশনা ইমাম।</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>তিন মাস পর অনুষ্ঠিত হতে যাচ্ছে দ্বাদশ জাতীয় সংসদ নির্বাচন</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>তদারকি করতে বিবাদীদের ব্যর্থতা কেন অবৈধ ও বেআইনি ঘোষণা করা হবে</p>
 											</a></li>
@@ -1134,23 +1113,15 @@
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>নানা নাটকীয়তার পর সাবেক ওয়ানডে অধিনায়ক</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>টাইগার ওপেনারের আকস্মিক দল থেকে বাদ পড়ায় নানা প্রশ্নের সৃষ্টি হয়েছে</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>তিন মাস পর অনুষ্ঠিত হতে যাচ্ছে দ্বাদশ জাতীয় সংসদ নির্বাচন</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>তিন মাস পর অনুষ্ঠিত হতে যাচ্ছে দ্বাদশ জাতীয় সংসদ নির্বাচন</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>তিন মাস পর অনুষ্ঠিত হতে যাচ্ছে দ্বাদশ জাতীয় সংসদ নির্বাচন</p>
 											</a></li>
@@ -1186,23 +1157,15 @@
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>এ সময় আপিল বিভাগের অন্যান্য বিচারপতি সেখানে উপস্থিত ছিলেন।</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>টাইগার ওপেনারের আকস্মিক দল থেকে বাদ পড়ায় নানা প্রশ্নের সৃষ্টি হয়েছে</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>দৃষ্টি আকর্ষণ করেন অ্যাটর্নি জেনারেল এ এম আমিন উদ্দিন</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>ওই মন্তব্য নিয়ে অনলাইন মাধ্যমে প্রকাশিত খবর প্রধান বিচারপতির নজরে আনেন তিনি।</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>তিন মাস পর অনুষ্ঠিত হতে যাচ্ছে দ্বাদশ জাতীয় সংসদ নির্বাচন</p>
 											</a></li>
@@ -1227,33 +1190,32 @@
 										<h3 class="Title">আইন-বিচার<i class="fa-solid fa-angles-right"></i></h3>
 									</a>
 								</div>
-								<div class="main-news-list">
-									<a href="#">
-										<picture>
-											<img class="img-fluid img100" src="media/imgAll/bg/planning-minister-20231010174227.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-										</picture>
-										<div class="desc">
-											<h2 class="lead-news-list-title">
-												মঙ্গলবার (১০ অক্টোবর) সকালে রাজধানীর গুলশানে
-											</h2>
-										</div>
-									</a>
+								<div class="parborto-chotogram-area">
+									<div class="main-news-list">
+										<a href="#">
+											<picture>
+												<img class="img-fluid img100" src="media/imgAll/bg/1-20231005020240.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+											</picture>
+											<div class="desc">
+												<h2 class="lead-news-list-title">
+													বিচারপতিকে খাস কামরায় ডেকে সতর্ক করেন প্রধান বিচারপতি ওবায়দুল হাসান
+												</h2>
+											</div>
+										</a>
+									</div>
 								</div>
 								<div class="category-news-list">
 									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>মন্ত্রী আরও বলেন, ভূমির মালিকানা নিয়ে হাজার বছর ধরে যে অন্যায় ঘটছে তা এখনো বন্ধ করা যায়নি</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>ভূমি অধিকার সংক্রান্ত আঞ্চলিক সেমিনারে বক্তারা বলেন</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>ভূমিতে ন্যায্য মালিকানা প্রতিষ্ঠায় কোনো সরকারই কার্যকর উদ্যোগ নেয়নি</p>
 											</a></li>
+
 									</ul>
 								</div>
 							</div>
@@ -1267,30 +1229,28 @@
 										<h3 class="Title">শিক্ষা<i class="fa-solid fa-angles-right"></i></h3>
 									</a>
 								</div>
-								<div class="main-news-list">
-									<a href="#">
-										<picture>
-											<img class="img-fluid img100" src="media/imgAll/bg/1695367150.96.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-										</picture>
-										<div class="desc">
-											<h2 class="lead-news-list-title">
-												জলবায়ু পরিবর্তনের কারণে ভূমির মালিকানা নিয়ে আরও সংকট তৈরি হচ্ছে
-											</h2>
-										</div>
-									</a>
+								<div class="parborto-chotogram-area">
+									<div class="main-news-list">
+										<a href="#">
+											<picture>
+												<img class="img-fluid img100" src="media/imgAll/bg/1-20231005020240.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+											</picture>
+											<div class="desc">
+												<h2 class="lead-news-list-title">
+													বিচারপতিকে খাস কামরায় ডেকে সতর্ক করেন প্রধান বিচারপতি ওবায়দুল হাসান
+												</h2>
+											</div>
+										</a>
+									</div>
 								</div>
 								<div class="category-news-list">
 									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>বাংলাদেশ পুলিশ জনগণের হৃদয়ে স্থান করে নিয়েছে বলে মন্তব্য </p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>করেছেন পুলিশের মহাপরিদর্শক (আইজিপি) চৌধুরী আবদুল্লাহ আল-মামুন</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>তিন মাস পর অনুষ্ঠিত হতে যাচ্ছে দ্বাদশ জাতীয় সংসদ নির্বাচন</p>
 											</a></li>
@@ -1306,30 +1266,29 @@
 										<h3 class="Title">তথ্য ও প্রযুক্তি<i class="fa-solid fa-angles-right"></i></h3>
 									</a>
 								</div>
-								<div class="main-news-list">
-									<a href="#">
-										<picture>
-											<img class="img-fluid img100" src="media/imgAll/bg/1650281923.mosque_5.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-										</picture>
-										<div class="desc">
-											<h2 class="lead-news-list-title">
-												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
-											</h2>
-										</div>
-									</a>
+								<div class="parborto-chotogram-area">
+									<div class="main-news-list">
+										<a href="#">
+											<picture>
+												<img class="img-fluid img100" src="media/imgAll/bg/1-20231005020240.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+											</picture>
+											<div class="desc">
+												<h2 class="lead-news-list-title">
+													বিচারপতিকে খাস কামরায় ডেকে সতর্ক করেন প্রধান বিচারপতি ওবায়দুল হাসান
+												</h2>
+											</div>
+										</a>
+									</div>
 								</div>
+
 								<div class="category-news-list">
 									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>নানা নাটকীয়তার পর সাবেক ওয়ানডে অধিনায়ক</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>টাইগার ওপেনারের আকস্মিক দল থেকে বাদ পড়ায় নানা প্রশ্নের সৃষ্টি হয়েছে</p>
 											</a></li>
-									</ul>
-									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>তিন মাস পর অনুষ্ঠিত হতে যাচ্ছে দ্বাদশ জাতীয় সংসদ নির্বাচন</p>
 											</a></li>
@@ -1337,7 +1296,6 @@
 								</div>
 							</div>
 						</div>
-
 					</div>
 				</div>
 			</div>
@@ -1428,7 +1386,6 @@
 										</div>
 									</a>
 								</div>
-
 							</div>
 						</div>
 					</div>
@@ -1589,7 +1546,7 @@
 				</div>
 			</div>
 		</section>
-				<!-- বিনোদন-->
+		<!-- বিনোদন-->
 		<section class="entertainment-section">
 			<div class="container">
 				<div class="sport-section">
@@ -1627,7 +1584,7 @@
 							<div class="col-lg-6  order-lg-2 order-1">
 								<div class="entertainment-lead-area">
 									<div class="thumbnail">
-										<a href="/">
+										<a href="#">
 											<picture>
 												<img class="img-fluid img100" src="media/imgAll/bg/lead-list-3.jpg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
 											</picture>
@@ -1740,7 +1697,9 @@
 										</picture>
 
 									</div>
+
 									<div class="Desc">
+										<!-- <h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1> -->
 										<h3>তিনি বলেন, আইনের শাসন প্রতিষ্ঠা, দুষ্টের দমন, রাষ্ট্র ও জনগণের জানমালের নিরাপত্তা প্রদানের পাশাপাশি</h3>
 									</div>
 								</a>
@@ -1829,10 +1788,10 @@
 								<div class="carousel-item active">
 									<div class="entertainment-lead-area">
 										<div class="thumbnail">
-											<a href="/">
+											<a href="#">
 												<div class="photo-section">
 													<div class="DVideoListItem align-self-stretch">
-														<a href="/">
+														<a href="#">
 															<div class="DImgZoomBlock">
 																<picture>
 																	<img class="img-fluid img100" src="media/imgAll/bg/lead-news-1.jpg" alt="" title="">
@@ -1848,8 +1807,6 @@
 														<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
 													</div>
 												</div>
-
-
 											</a>
 										</div>
 									</div>
@@ -1857,10 +1814,10 @@
 								<div class="carousel-item">
 									<div class="entertainment-lead-area">
 										<div class="thumbnail">
-											<a href="/">
+											<a href="#">
 												<div class="photo-section">
 													<div class="DVideoListItem align-self-stretch">
-														<a href="/">
+														<a href="#">
 															<div class="DImgZoomBlock">
 																<picture>
 																	<img class="img-fluid img100" src="media/imgAll/bg/1-2e395856236b7e471a90b57590b84fad.jpg" alt="" title="">
@@ -1876,8 +1833,6 @@
 														<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
 													</div>
 												</div>
-
-
 											</a>
 										</div>
 									</div>
@@ -1885,10 +1840,10 @@
 								<div class="carousel-item">
 									<div class="entertainment-lead-area">
 										<div class="thumbnail">
-											<a href="/">
+											<a href="#">
 												<div class="photo-section">
 													<div class="DVideoListItem align-self-stretch">
-														<a href="/">
+														<a href="#">
 															<div class="DImgZoomBlock">
 																<picture>
 																	<img class="img-fluid img100" src="media/imgAll/bg/14952417292801160377.jpeg" alt="" title="">
@@ -1897,15 +1852,12 @@
 																	<i class="fas fa-images gallary-icon"></i>
 																</span>
 															</div>
-
 														</a>
 													</div>
 													<div class="Desc">
 														<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
 													</div>
 												</div>
-
-
 											</a>
 										</div>
 									</div>
@@ -1925,9 +1877,9 @@
 						<div class="galary-area">
 							<div class="row">
 								<div class="col-lg-6 col-6 ">
-									<div class="photo-section">
+									<div class="other-photo-section ">
 										<div class="DVideoListItem align-self-stretch">
-											<a href="/">
+											<a href="#">
 												<div class="DImgZoomBlock">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-1.jpg" alt="" title="">
@@ -1937,7 +1889,7 @@
 													</span>
 												</div>
 												<div class="Desc">
-													<h4>০৩ সেপ্টেম্বর ২০২৩
+													<h4 class="Title">০৩ সেপ্টেম্বর ২০২৩
 													</h4>
 												</div>
 											</a>
@@ -1945,9 +1897,9 @@
 									</div>
 								</div>
 								<div class="col-lg-6 col-6">
-									<div class="photo-section">
+									<div class="other-photo-section ">
 										<div class="DVideoListItem align-self-stretch">
-											<a href="/">
+											<a href="#">
 												<div class="DImgZoomBlock">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/1695367150.96.jpg" alt="" title="">
@@ -1957,7 +1909,7 @@
 													</span>
 												</div>
 												<div class="Desc">
-													<h4> ১০ সেপ্টেম্বর ২০১৯
+													<h4 class="Title"> ১০ সেপ্টেম্বর ২০১৯
 													</h4>
 												</div>
 											</a>
@@ -1965,9 +1917,9 @@
 									</div>
 								</div>
 								<div class="col-lg-6 col-6">
-									<div class="photo-section">
+									<div class="other-photo-section ">
 										<div class="DVideoListItem align-self-stretch">
-											<a href="/">
+											<a href="#">
 												<div class="DImgZoomBlock">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/1681976536.Photo - 2023-04-20T134152.708.jpg" alt="" title="">
@@ -1977,7 +1929,7 @@
 													</span>
 												</div>
 												<div class="Desc">
-													<h4>০৫ অক্টোবর ২০২১
+													<h4 class="Title">০৫ অক্টোবর ২০২১
 													</h4>
 												</div>
 											</a>
@@ -1985,9 +1937,9 @@
 									</div>
 								</div>
 								<div class="col-lg-6 col-6">
-									<div class="photo-section">
+									<div class="other-photo-section ">
 										<div class="DVideoListItem align-self-stretch">
-											<a href="/">
+											<a href="#">
 												<div class="DImgZoomBlock">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/14952417292801160377.jpeg" alt="" title="">
@@ -1997,7 +1949,7 @@
 													</span>
 												</div>
 												<div class="Desc">
-													<h4>২২ অগাস্ট ২০২০
+													<h4 class="Title">২২ অগাস্ট ২০২০
 													</h4>
 												</div>
 											</a>
@@ -2005,9 +1957,9 @@
 									</div>
 								</div>
 								<div class="col-lg-6 col-6">
-									<div class="photo-section">
+									<div class="other-photo-section ">
 										<div class="DVideoListItem align-self-stretch">
-											<a href="/">
+											<a href="#">
 												<div class="DImgZoomBlock">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-1.jpg" alt="" title="">
@@ -2017,7 +1969,7 @@
 													</span>
 												</div>
 												<div class="Desc">
-													<h4>০৩ সেপ্টেম্বর ২০২৩
+													<h4 class="Title">০৩ সেপ্টেম্বর ২০২৩
 													</h4>
 												</div>
 											</a>
@@ -2025,9 +1977,9 @@
 									</div>
 								</div>
 								<div class="col-lg-6 col-6">
-									<div class="photo-section">
+									<div class="other-photo-section ">
 										<div class="DVideoListItem align-self-stretch">
-											<a href="/">
+											<a href="#">
 												<div class="DImgZoomBlock">
 													<picture>
 														<img class="img-fluid img100" src="media/imgAll/bg/1695367150.96.jpg" alt="" title="">
@@ -2037,7 +1989,7 @@
 													</span>
 												</div>
 												<div class="Desc">
-													<h4>২৫ সেপ্টেম্বর ২০২৩
+													<h4 class="Title">২৫ সেপ্টেম্বর ২০২৩
 													</h4>
 												</div>
 											</a>
@@ -2050,314 +2002,14 @@
 				</div>
 			</div>
 		</section>
-
 	</main>
-
 	<?php include_once("common/footer.php"); ?>
-
 	</div>
-
 	<?php echo $sJSjQuery;
 	echo $sJSBootStrap;
 	echo $sJSPopper;
 	echo $sJSSlick;
 	echo $sJSEMM; ?>
-
-
-	<script>
-		const CONSTANTS = {
-			DOM_SELECTORS: {
-				datePicker: "",
-				datePickerPrevMonth: ".date_picker_prev_month",
-				datePickerNextMonth: ".date_picker_next_month",
-				datePickerMonthDays: ".date_picker_month_days",
-				datePickerMonthDay: ".date_picker_month_day",
-				datePickerYear: ".date_picker_year",
-				datePickerMonthName: ".date_picker_month_name",
-				datePickerDay: ".day"
-			},
-			DOM_STRINGS: {
-				dataTime: "li[data-time]"
-			},
-			DUMMY_LI_FOR_EMPTY_DAYS: '<li class="day"></li>',
-			DAY_MAP: {
-				0: "Sun",
-				1: "Mon",
-				2: "Tue",
-				3: "Wed",
-				4: "Thu",
-				5: "Fri",
-				6: "Sat"
-			},
-			MONTH_MAP: {
-				0: "January",
-				1: "February",
-				2: "March",
-				3: "April",
-				4: "May",
-				5: "June",
-				6: "July",
-				7: "August",
-				8: "September",
-				9: "October",
-				10: "November",
-				11: "December"
-			}
-		};
-
-		const utils = (function() {
-			function prefixDOMSelectorsWithPickerSelector(pickerSelector) {
-				let DOM_SELECTORS = {};
-				for (let selector in CONSTANTS.DOM_SELECTORS) {
-					DOM_SELECTORS[
-						selector
-					] = `${pickerSelector} ${CONSTANTS.DOM_SELECTORS[selector]}`.trim();
-				}
-				CONSTANTS.DOM_SELECTORS = DOM_SELECTORS;
-			}
-
-			function getDOMElements(DOMSelectors) {
-				let DOMElements = {};
-				for (let selector in DOMSelectors) {
-					if (DOMSelectors.hasOwnProperty(selector)) {
-						DOMElements[selector] = document.querySelector(DOMSelectors[selector]);
-					}
-				}
-				return DOMElements;
-			}
-
-			function getDatePickerWeekDaysNameMarkUp() {
-				return `
-        <li>Sun</li>
-        <li>Mon</li>
-        <li>Tue</li>
-        <li>Wed</li>
-        <li>Thu</li>
-        <li>Fri</li>
-        <li>Sat</li>`;
-			}
-
-			function getDayMarkup(day = 1, isActive = false, time = null) {
-				if (!time) {
-					console.trace(`The time provided for getDayMarkup ${time} is invalid`);
-				}
-				return `
-        <li class="day ${isActive ? "active" : ""}" data-time="${time}">${day}
-          
-        </li>`;
-			}
-
-			function getAllDays() {
-				let days = document.querySelectorAll(CONSTANTS.DOM_SELECTORS.datePickerDay);
-				return [...(days ?? [])];
-			}
-
-			function getDaySuffix(day) {
-				switch (day) {
-					case 1:
-					case 21:
-					case 31:
-						return "st";
-					case 2:
-					case 22:
-						return "nd";
-					case 3:
-					case 23:
-						return "rd";
-					default:
-						return "th";
-				}
-			}
-
-			return {
-				prefixDOMSelectorsWithPickerSelector,
-				getDOMElements,
-				getDatePickerWeekDaysNameMarkUp,
-				getDayMarkup,
-				getAllDays,
-				getDaySuffix
-			};
-		})();
-
-		const model = (function() {
-			const data = {
-				currentDate: new Date(),
-				selectedDate: new Date()
-			};
-
-			function setCurrentDate(newDate) {
-				data.currentDate = newDate;
-			}
-
-			function setSelectedDate(newDate) {
-				data.selectedDate = newDate;
-			}
-
-			function getCurrentDate() {
-				return data.currentDate;
-			}
-
-			function getSelectedDate() {
-				return data.selectedDate;
-			}
-
-			return {
-				setCurrentDate,
-				setSelectedDate,
-				getCurrentDate,
-				getSelectedDate
-			};
-		})();
-
-		const view = (function(model, utils) {
-			function removeDays() {
-				const allDays = utils.getAllDays();
-				allDays.forEach((day) => day.remove());
-			}
-
-			function fillEmptyDays(count) {
-				const DOMElements = utils.getDOMElements(CONSTANTS.DOM_SELECTORS);
-				for (let i = 0; i < count; i++) {
-					DOMElements.datePickerMonthDays.insertAdjacentHTML(
-						"beforeend",
-						CONSTANTS.DUMMY_LI_FOR_EMPTY_DAYS
-					);
-				}
-			}
-
-			function fillDay(day, isActive = false, time) {
-				const dayMarkUp = utils.getDayMarkup(day, isActive, time);
-				const DOMElements = utils.getDOMElements(CONSTANTS.DOM_SELECTORS);
-				DOMElements.datePickerMonthDays.insertAdjacentHTML("beforeend", dayMarkUp);
-			}
-
-			function fillCurrentMonth(string) {
-				const DOMElements = utils.getDOMElements(CONSTANTS.DOM_SELECTORS);
-				DOMElements.datePickerMonthName.textContent = string;
-			}
-
-			function fillSelectedDate(month, date, day, year) {
-				const DOMElements = utils.getDOMElements(CONSTANTS.DOM_SELECTORS);
-				DOMElements.datePickerMonthDay.innerHTML = `${
-      CONSTANTS.MONTH_MAP[month]
-    } ${date}<sup>${utils.getDaySuffix(date)}</sup>, ${CONSTANTS.DAY_MAP[day]}`;
-				DOMElements.datePickerYear.textContent = year;
-			}
-
-			return {
-				removeDays,
-				fillEmptyDays,
-				fillDay,
-				fillCurrentMonth,
-				fillSelectedDate
-			};
-		})(model, utils);
-
-		const controller = (function(model, view, utils) {
-			let DOMElements = null;
-
-			function init(pickerSelector = "", selectedDate = new Date()) {
-				console.log('selectedDate', selectedDate)
-				utils.prefixDOMSelectorsWithPickerSelector(pickerSelector);
-				DOMElements = utils.getDOMElements(CONSTANTS.DOM_SELECTORS);
-				if (!DOMElements.datePicker) {
-					throw new Error(
-						`Date Picker with selector ${pickerSelector} not found in the document`
-					);
-				}
-				DOMElements.datePickerNextMonth.addEventListener(
-					"click",
-					handleNextMonthClick
-				);
-				DOMElements.datePickerPrevMonth.addEventListener(
-					"click",
-					handlePrevMonthClick
-				);
-				DOMElements.datePickerMonthDays.addEventListener("click", handleSelectDate);
-				if (selectedDate.constructor !== Date) {
-					throw new Error(`The initial date ${selectedDate} is not a Date Object`);
-				}
-				let clonedSelectedDate = new Date(selectedDate.getTime());
-				let clonedCurrentDate = new Date(selectedDate.getTime());
-				model.setSelectedDate(clonedSelectedDate);
-				model.setCurrentDate(clonedCurrentDate);
-				render(selectedDate);
-			}
-
-			function handleSelectDate(event) {
-				const time = event.target.closest(CONSTANTS.DOM_STRINGS.dataTime)?.dataset
-					.time;
-				if (!time) return;
-				model.setSelectedDate(new Date(Number(time)));
-				model.setCurrentDate(new Date(Number(time)));
-				render();
-			}
-
-			function handleNextMonthClick() {
-				render();
-			}
-
-			function handlePrevMonthClick() {
-				let currentDate = new Date(model.getCurrentDate().getTime());
-				currentDate.setMonth(currentDate.getMonth() - 2);
-				model.setCurrentDate(currentDate);
-				render();
-			}
-
-			function render(selectedDate = null) {
-				updateSelectedDateMarkUp();
-				view.removeDays();
-				let currentDate = new Date(
-					selectedDate?.getTime() ?? model.getCurrentDate().getTime()
-				);
-				let selected = model.getSelectedDate();
-				let selectedDay = selected.getDate();
-				let selectedMonth = selected.getMonth();
-				let selectedYear = selected.getFullYear();
-				currentDate.setDate(1);
-				let renderingMonth = currentDate.getMonth();
-				view.fillEmptyDays(currentDate.getDay());
-				view.fillCurrentMonth(
-					`${CONSTANTS.MONTH_MAP[renderingMonth]} - ${currentDate.getFullYear()}`
-				);
-				while (currentDate.getMonth() === renderingMonth) {
-					let currentMonth = currentDate.getMonth();
-					let currentDay = currentDate.getDate();
-					let currentYear = currentDate.getFullYear();
-					let currentStringDate = `${currentDay}/${
-        currentMonth + 1
-      }/${currentYear}`;
-					let selectedStringDate = `${selectedDay}/${
-        selectedMonth + 1
-      }/${selectedYear}`;
-					view.fillDay(
-						currentDate.getDate(),
-						selectedStringDate === currentStringDate,
-						currentDate.getTime()
-					);
-					currentDate.setDate(currentDay + 1);
-				}
-				model.setCurrentDate(currentDate);
-			}
-
-			function updateSelectedDateMarkUp() {
-				const currentDate = new Date(model.getSelectedDate().getTime());
-				view.fillSelectedDate(
-					currentDate.getMonth(),
-					currentDate.getDate(),
-					currentDate.getDay(),
-					currentDate.getFullYear()
-				);
-			}
-
-			return {
-				init
-			};
-		})(model, view, utils);
-
-		controller.init("#date_picker_1");
-	</script>
-
 </body>
 
 </html>

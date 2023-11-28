@@ -55,11 +55,9 @@
 						<a href="#">
 							<div class="social-icon" onclick="showSearchBox()" style="background: #F34A38"><i class="fas fa-search" style="cursor:pointer"></i>
 							</div>
-
 						</a>
 					</div>
 				</div>
-
 			</div>
 		</div>
 
@@ -71,7 +69,6 @@
 						<nav class="navbar navbar-default navbar-expand-lg navbar-inverse ">
 							<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
 								<ul class="nav navbar-nav">
-
 									<li class="nav-item"><a class="nav-link" href="#"><i class="fa fa-home" aria-hidden="true"></i></a></li>
 									<li class="nav-item"><a class="nav-link" href="#">জাতীয়</a></li>
 									<li class="nav-item"><a class="nav-link" href="#">আন্তর্জাতিক</a></li>
@@ -147,8 +144,6 @@
 										<li class="nav-item"><a class="nav-link" href="#">রাজনীতি</a></li>
 										<li class="dropdown "><a href="#" class="nav-link dropdown-toggle " role="button" id="dropdownMenuButton" data-toggle="dropdown" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> পার্বত্য চট্টগ্রাম<span class="caret"></span></a>
 											<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-
-
 												<li class="nav-item"><a class="nav-link" href="#">বান্দরবান</a></li>
 												<li class="nav-item"><a class="nav-link" href="#">রাঙ্গামাটি</a></li>
 												<li class="nav-item"><a class="nav-link" href="#">খাগড়াছড়ি</a></li>
@@ -162,7 +157,6 @@
 										<li class="nav-item"><a class="nav-link" href="#">শিক্ষা</a></li>
 										<li class="dropdown "><a href="#" class="nav-link dropdown-toggle " role="button" id="dropdownMenuButton" data-toggle="dropdown" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">ধর্ম<span class="caret"></span></a>
 											<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-
 												<li class="nav-item"><a class="nav-link" href="#">ইসলাম</a></li>
 												<li class="nav-item"><a class="nav-link" href="#">হিন্দু</a></li>
 												<li class="nav-item"><a class="nav-link" href="#">বৌদ্ধ</a></li>
