@@ -1092,7 +1092,7 @@ ul {
 }
 
 .health-area .lead-news-list {
-	padding-bottom: 13px;
+	padding-bottom: 12px;
 	border-bottom: 1px solid #ebebeb;
 }
 
@@ -1289,7 +1289,6 @@ ul {
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
-
 .orthoniti-area .photo-gallery-list-news .list-title {
 	display: -webkit-box;
 	-webkit-line-clamp: 3;
@@ -1302,7 +1301,6 @@ ul {
 	color: #222;
 	margin-top: 10px;
 }
-
 /* ========lifestyle-section============== */
 .lifestyle-section .lead-news-list-title {
 	color: #000;
@@ -1316,63 +1314,50 @@ ul {
 	padding-top: 5px;
 	padding-bottom: 0;
 	margin: 0;
-
 }
-
 .lifestyle-section .lead-news-list-title:hover {
 	color: #b50505;
 }
-
 .lifestyle-section .DVideoTop {
 	margin-top: 0px;
 	background-color: #7b0b0b;
 	position: relative;
 }
-
 .lifestyle-section .main-news-list img {
 	aspect-ratio: 1.85;
 	object-fit: cover;
 	object-position: center;
 }
-
 .lifestyle-section .main-news-list .desc {
 	padding-bottom: 14px;
 }
-
 /* ==============photo-gallary========= */
 .icon {
 	font-size: 35px;
 	color: #b50505;
-
 }
-
 .galary-area {
 	padding-bottom: 20px;
 }
-
 .photo-section .VideoSection {
 	background: #222222;
 	padding: 30px 0;
 	margin-top: 40px;
 	margin-bottom: 40px;
 }
-
 .photo-section .DVideoList {
 	margin-top: 10px;
 	width: 100%;
 }
-
 .photo-section .DVideoTop {
 	margin-top: 10px;
 	background-color: #121212;
 	position: relative;
 }
-
 .other-photo-section .DVideoListItem {
 	margin-bottom: 12px;
 	background-color: #12412d;
 }
-
 .other-photo-section .DVideoListItem .Desc .Title {
 	color: #f5f5f5;
 	font-weight: 500;
@@ -1385,7 +1370,6 @@ ul {
 	line-height: 22px;
 	padding: 5px 15px;
 	height: 50px;
-
 }
 .other-photo-section .DVideoListItem .Desc .Title:hover{
 	color: #b50505;}
@@ -1396,7 +1380,6 @@ ul {
 	object-fit: cover;
 	object-position: center;
 }
-
 .photo-section picture img {
 	aspect-ratio: 1.677;
 	object-fit: cover;
@@ -1411,7 +1394,6 @@ ul {
 	transform: translate(-50%, -50%);
 	border: 1px solid #fff;
 }
-
 .thumbnail .photo-section .photo-Icon i {
 	color: #7b0b0b;
 	left: 5px;
@@ -1445,12 +1427,10 @@ ul {
 	display: flex;
 	justify-content: center;
 }
-
 .photo-section .VideoSection .videosection-heading {
 	border-bottom: 3px solid #b50505;
 	margin-bottom: 20px;
 }
-
 .photo-section .VideoSection .videosection-heading h2 {
 	display: -webkit-box;
 	-webkit-line-clamp: 3;
@@ -1464,28 +1444,22 @@ ul {
 	color: #f8f8f8;
 	padding-top: 20px;
 }
-
 .photo-section .VideoSection .videosection-heading h2:hover {
 	color: #b50505;
 }
-
 .photo-section .DImgZoomBlock {
 	position: relative;
 	display: block;
 }
-
 .photo-section .DVideoTop {
 	margin-top: 10px;
 	background-color: #121212;
 	position: relative;
 }
-
 .photo-section .DVideoTop .Desc {
 	padding: 35px 15px 10px 5px;
-
 	overflow: hidden;
 }
-
 .photo-section .DVideoTop .Desc h3 {
 	color: #f5f5f5;
 	font-weight: 700;
@@ -1494,7 +1468,6 @@ ul {
 	line-height: 27px;
 	padding: 30px 20px;
 }
-
 .photo-section .DVideoListItem .Desc h4 {
 	color: #f5f5f5;
 	font-weight: 700;
@@ -1502,11 +1475,9 @@ ul {
 	font-size: 16px;
 	line-height: 10px;
 }
-
 .photo-section .DVideoListItem .Desc h4:hover {
 	color: #ccc;
 }
-
 .gallary-icon {
 	position: absolute;
 	z-index: 1;
@@ -1516,30 +1487,25 @@ ul {
 	top: 60px;
 	left: 110px;
 }
-
 /* =====footer====== */
 .foot-area {
 	background-color: #12412d;
 	padding: 40px 0 20px 0;
 	margin-top: 20px;
 }
-
 .foot-brand-logo-top img {
 	width: 280px;
 	padding: 0;
 }
-
 .foot-area-1 .brand-logo-top img {
 	width: 200px;
 	margin-right: 10px;
 	padding: 0;
 }
-
 .foot-area-1 {
 	padding-bottom: 20px;
 	border-bottom: 1px solid #ddd;
 }
-
 .area-details h2 {
 	font-size: 20px;
 	color: #fff;
@@ -1547,19 +1513,15 @@ ul {
 	padding-bottom: 25px;
 	padding-top: 25px;
 }
-
 .area-details p {
 	font-size: 15px;
 	color: #fff;
 }
-
 .copyright {
 	font-size: 18px;
 	line-height: 22px;
 	color: #f9f9f9;
 }
-
-
 /* XL Device :1200px. */
 @media (min-width:1200px) and (max-width:1500px) {}
 
@@ -1570,15 +1532,12 @@ ul {
 		color: #fff;
 		line-height: 24px;
 	}
-
 	.nav-link i {
 		font-size: 15px;
 	}
-
 	.DHeaderNav .navbar-nav .nav-link {
 		padding: 10px 9px 10px 12px;
 	}
-
 	.navbar-expand-lg .navbar-nav .dropdown-menu .nav-link {
 		text-decoration: none;
 		color: #fff;
@@ -1586,12 +1545,10 @@ ul {
 		background-color: #12412d;
 		padding: 8px 11px;
 	}
-
 	.lead-news-area {
 		background: #dbd9d9;
 		margin-bottom: 14px;
 	}
-
 	.lead-news-area .Desc .Title {
 		color: #000;
 		font-size: 21px;
@@ -1603,11 +1560,9 @@ ul {
 		overflow: hidden;
 		padding: 20px;
 	}
-
 	.lead-news-area .Desc .quote {
 		-webkit-line-clamp: 3;
 	}
-
 	.lead-news-section .lead-news-list-title {
 		color: #000;
 		font-size: 18px;
@@ -1620,7 +1575,6 @@ ul {
 		padding-top: 10px;
 		padding-bottom: 38px;
 	}
-
 	.photo-section .DVideoListItem .Desc h4 {
 		color: #f5f5f5;
 		font-weight: 700;
@@ -1629,22 +1583,18 @@ ul {
 		line-height: 4px;
 		/* padding: 12px; */
 	}
-
 	.entertainment-area .quote {
 		display: -webkit-box;
 		-webkit-line-clamp: 2;
 		-webkit-box-orient: vertical;
 		margin-top: 0px;
 	}
-
 	.lifestyle-section .lead-news-list-title {
 		font-size: 17px;
 	}
-
 	.entertainment-lead-area .Desc .Title {
 		font-size: 24px;
 	}
-
 	.rajniti-area .national-text {
 		font-size: 14px;
 		display: -webkit-box;
@@ -1652,7 +1602,6 @@ ul {
 		-webkit-box-orient: vertical;
 		padding-top: 20px;
 	}
-
 	.rajniti-area .national-title {
 		font-size: 18px;
 		display: -webkit-box;
@@ -1660,21 +1609,17 @@ ul {
 		-webkit-box-orient: vertical;
 		padding-top: 15px;
 	}
-
 	.list-title {
 		display: -webkit-box;
 		-webkit-line-clamp: 2;
 		-webkit-box-orient: vertical;
 	}
-
 }
-
 /* MD Device :768px. */
 @media (min-width:768px) and (max-width:991px) {
 	.news-header {
 		display: none;
 	}
-
 	.news-header2 {
 		display: block;
 	}
@@ -1684,87 +1629,67 @@ ul {
 		line-height: 30px;
 		height: 65px;
 	}
-
 	.list-title {
 		font-size: 18px;
 		line-height: 26px;
 	}
-
 	.list-title:hover {
 		color: #b50505;
 	}
-
 	.Dnews-date {
 		font-size: 16px;
 		color: #b50505;
 		font-weight: 600;
 	}
-
 	.lead-news-area .Desc .Title {
 		padding: 20px 20px 0 20px;
 	}
-
 	.lead-news-list-title {
 		font-size: 16px;
 	}
-
 	.advertise-Mobile-hide {
 		display: none;
 	}
-
 	.rajniti-area .national-text {
 		display: none;
 	}
-
 	.rajniti-area .desc {
 		padding-bottom: 30px;
 	}
-
 	.DVideoListItem {
 		margin-top: 10px;
 	}
-
 	.health-area .national-text {
 		display: none;
 	}
-
 	.health-area .desc {
 		padding-bottom: 30px;
 	}
-
 	.bandorban-heading .desc .lead-news-list-title {
 		font-size: 18px;
 	}
-
 	.entertainment-lead-area {
 		margin-bottom: 20px;
 	}
-
 	.entertainment-area .quote {
 		display: none;
 	}
-
 	.DVideoTop .Desc {
 		padding: 10px 15px 10px 5px;
 		height: 100px;
 	}
-
 	.lifestyle-section .DVideoTop {
 		margin-bottom: 20px;
 	}
-
 	.area-details p {
 		font-size: 13px;
 	}
-
 	.DLatestNewsList h3 {
 		line-height: 62px;
 	}
-
 	.entertainment-lead-area .Desc .Title {
 		font-size: 20px;
 	}
-
 	.searchIcon {
 		font-size: 18px;
 		display: flex;
@@ -1772,27 +1697,21 @@ ul {
 		padding: 40px 20px;
 		color: #fff;
 	}
-
 	.searchIcon:hover {
 		color: #ccc;
 	}
-
 	.navbar-toggler-icon {
 		margin-top: 20px;
 	}
-
 	.search_block {
 		padding: 14px;
 	}
-
 	.navbar-toggler {
 		padding: 14px 0;
 	}
-
 	.DHeaderNav .navbar-expand-lg .navbar-nav .nav-link {
 		padding: 10px 0px 10px 16px;
 	}
-
 	.navbar-expand-lg .navbar-nav .dropdown-menu a {
 		background-color: #d0d0d0;
 		color: #000;
@@ -1800,28 +1719,23 @@ ul {
 		font-size: 17px;
 		line-height: 25px;
 	}
-
 	.offcanvas-header:hover button {
 		color: #a31d21;
 	}
-
 	.navbar-default .navbar-nav>li>a {
 		font-size: 18px;
 		color: #000;
 		line-height: 26px;
 	}
-
 	.nav-link i {
 		margin-right: 10px;
 		font-size: 18px;
 		color: #12412d;
 		margin-bottom: 20px;
 	}
-
 	.news-header {
 		display: none;
 	}
-
 	.thumbnail .photo-section .photo-Icon i {
 		width: 60px;
 		height: 60px;
@@ -1846,40 +1760,31 @@ ul {
 		left: 50%;
 	}
 }
-
-
 /* Extra small Device. */
 @media (max-width:767px) {
 	.news-header {
 		display: none;
 	}
-
 	.news-header2 {
 		display: block;
 	}
-
 	.Dnews-date {
 		font-size: 16px;
 		color: #b50505;
 		font-weight: 600;
 	}
-
 	.lead-news-area .Desc .Title {
 		padding: 20px 20px 0 20px;
 	}
-
 	.lead-news-list-title {
 		font-size: 16px;
 	}
-
 	.advertise-Mobile-hide {
 		display: none;
 	}
-
 	.rajniti-area .national-text {
 		display: none;
 	}
-
 	.rajniti-area .desc {
 		padding-bottom: 20px;
 	}
@@ -1887,48 +1792,37 @@ ul {
 	.DVideoListItem {
 		margin-top: 10px;
 	}
-
 	.health-area .national-text {
 		display: none;
 	}
-
 	.health-area .desc {
 		padding-bottom: 20px;
 	}
-
 	.bandorban-heading .desc .lead-news-list-title {
 		font-size: 18px;
 	}
-
 	.entertainment-lead-area {
 		margin-bottom: 20px;
 	}
-
 	.entertainment-area .quote {
 		display: none;
 	}
-
 	.DVideoTop .Desc {
 		padding: 10px 15px 10px 5px;
 		height: 100px;
 	}
-
 	.lifestyle-section .DVideoTop {
 		margin-bottom: 20px;
 	}
-
 	.area-details p {
 		font-size: 13px;
 	}
-
 	.DLatestNewsList h3 {
 		line-height: 62px;
 	}
-
 	.entertainment-lead-area .Desc .Title {
 		font-size: 20px;
 	}
-
 	.searchIcon {
 		font-size: 18px;
 		display: flex;
@@ -1936,27 +1830,21 @@ ul {
 		padding: 23px 20px;
 		color: #fff;
 	}
-
 	.searchIcon:hover {
 		color: #ccc;
 	}
-
 	.navbar-toggler-icon {
 		margin-top: 6px;
 	}
-
 	.search_block {
 		padding: 14px;
 	}
-
 	.navbar-toggler {
 		padding: 14px 0;
 	}
-
 	.DHeaderNav .navbar-expand-lg .navbar-nav .nav-link {
 		padding: 10px 0px 10px 16px;
 	}
-
 	.navbar-expand-lg .navbar-nav .dropdown-menu a {
 		background-color: #d0d0d0;
 		color: #000;
@@ -1964,33 +1852,27 @@ ul {
 		font-size: 17px;
 		line-height: 25px;
 	}
-
 	.offcanvas-header:hover button {
 		color: #a31d21;
 	}
-
 	.navbar-default .navbar-nav>li>a {
 		font-size: 18px;
 		color: #000;
 		line-height: 26px;
 	}
-
 	.nav-link i {
 		margin-right: 10px;
 		font-size: 18px;
 		color: #12412d;
 		margin-bottom: 20px;
 	}
-
 	.news-header {
 		display: none;
 	}
-
 	.thumbnail .photo-section .photo-Icon i {
 		width: 60px;
 		height: 60px;
 		line-height: 60px;
-
 	}
 	.lead-news-area .Desc .quote {
 		font-size: 18px;
@@ -2000,6 +1882,5 @@ ul {
 		height: 75px;
 	}
 }
-
 /* SM Small Device :550px. */
 @media only screen and (min-width:576px) and (max-width:767px) {}
