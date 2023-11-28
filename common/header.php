@@ -60,7 +60,6 @@
 				</div>
 			</div>
 		</div>
-
 		<!-- main navbar -->
 		<div class="DHeaderNav stickyNav " id="sticky-navbar">
 			<div class="container">
@@ -183,12 +182,12 @@
 					</nav>
 				</div>
 				<div class="col-6">
-					<a class="brand-logo-top  " title="Desh News 24" href="#">
+					<a class="brand-logo-top"  href="#" title="Desh News 24">
 						<img class="img-fluid" src="media/common/D-news-Logo.png" alt="Desh News 24">
 					</a>
 				</div>
 				<div class=" col-3">
-					<a class="searchIcon">
+					<a class="searchIcon" href="#">
 						<div onclick="showSearchBox()"><i class="fas fa-search"></i>
 						</div>
 					</a>

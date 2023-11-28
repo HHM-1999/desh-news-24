@@ -668,9 +668,7 @@
 					</div>
 				</div>
 			</div>
-
 		</section>
-
 		<!-- =========সারাদেশ========-->
 		<section class="saradesh-section">
 			<div class="container">
@@ -1062,7 +1060,6 @@
 										</a>
 									</div>
 								</div>
-
 								<div class="category-news-list">
 									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
@@ -1084,7 +1081,6 @@
 								</div>
 							</div>
 						</div>
-
 						<!-- rangamati-area -->
 						<div class="col-lg-4">
 							<div class="bandorban-heading">
@@ -1107,7 +1103,6 @@
 										</a>
 									</div>
 								</div>
-
 								<div class="category-news-list">
 									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
@@ -1151,7 +1146,6 @@
 										</a>
 									</div>
 								</div>
-
 								<div class="category-news-list">
 									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
@@ -1215,12 +1209,10 @@
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
 												<p>ভূমিতে ন্যায্য মালিকানা প্রতিষ্ঠায় কোনো সরকারই কার্যকর উদ্যোগ নেয়নি</p>
 											</a></li>
-
 									</ul>
 								</div>
 							</div>
 						</div>
-
 						<!-- শিক্ষা-->
 						<div class="col-lg-4">
 							<div class="bandorban-heading">
@@ -1280,7 +1272,6 @@
 										</a>
 									</div>
 								</div>
-
 								<div class="category-news-list">
 									<ul>
 										<li><a href="#"><i class="fa-solid fa-angle-right"></i>
@@ -1695,9 +1686,7 @@
 										<picture>
 											<img class="img-fluid img100" src="media/imgAll/bg/lead-list-2.jpg" alt="" title="">
 										</picture>
-
 									</div>
-
 									<div class="Desc">
 										<!-- <h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1> -->
 										<h3>তিনি বলেন, আইনের শাসন প্রতিষ্ঠা, দুষ্টের দমন, রাষ্ট্র ও জনগণের জানমালের নিরাপত্তা প্রদানের পাশাপাশি</h3>
@@ -1763,7 +1752,6 @@
 									</div>
 								</div>
 							</div>
-
 						</div>
 					</div>
 				</div>
@@ -1800,7 +1788,6 @@
 																	<i class="fas fa-images gallary-icon"></i>
 																</span>
 															</div>
-
 														</a>
 													</div>
 													<div class="Desc">
@@ -1826,7 +1813,6 @@
 																	<i class="fas fa-images gallary-icon"></i>
 																</span>
 															</div>
-
 														</a>
 													</div>
 													<div class="Desc">
